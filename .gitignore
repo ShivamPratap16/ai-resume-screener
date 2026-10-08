@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.cache/
+.env
+# Provided resumes contain personal data; place them here locally.
+resumes/*
+!resumes/.gitkeep
+DECISIONS.md

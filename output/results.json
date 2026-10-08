@@ -1,0 +1,3769 @@
+{
+  "summary": {
+    "total_files": 50,
+    "parsed": 50,
+    "eligible": 33,
+    "rejected": 17,
+    "failed": 0,
+    "duplicates": 0,
+    "github_enriched": 31,
+    "llm_reviewed": 0,
+    "duration_s": 1.81
+  },
+  "ranked": [
+    {
+      "rank": 1,
+      "candidate_name": "V Sree Raghu Vardhan",
+      "eligible": true,
+      "total_score": 87.8,
+      "score_breakdown": {
+        "ai_project_depth": 40.0,
+        "python_backend": 27.4,
+        "cloud_fullstack": 10.4,
+        "github": 5.0,
+        "engineering_depth": 5.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Darwinbox — SDE-1",
+          "agent orchestration +7: Built LangChain-based multi-step AI agent workflows integrating enterprise APIs, MCP tools, semantic retrieval, documen…",
+          "tool calling +5: Built LangChain-based multi-step AI agent workflows integrating enterprise APIs, MCP tools, semantic retrieval, documen…",
+          "retrieval/RAG +8: Built semantic retrieval pipelines using embeddings to identify relevant profile fields before tool execution, improvin…",
+          "state/memory +5: Designed structured output validation layers using Redis-backed state management to preserve original API responses acr…",
+          "evaluation +5: Built LangSmith evaluation pipelines with reproducible testing infrastructure using recorded API responses, database sn…",
+          "structured output/guardrails +2: Designed structured output validation layers using Redis-backed state management to preserve original API responses acr…",
+          "backend integration +3: Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "data processing +1: Built semantic retrieval pipelines using embeddings to identify relevant profile fields before tool execution, improvin…",
+          "production/business impact +3: Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "LLM framework/API +1: Built LangChain-based multi-step AI agent workflows integrating enterprise APIs, MCP tools, semantic retrieval, documen…",
+          "Second AI project 'Darwinbox — SDE Intern' adds 25% of its 7: +1.8",
+          "Capped at 40"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "FastAPI +6.0/6 (applied): Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "async +4.0/4 (applied): Implemented resilient agent workflows with asynchronous streaming, retry handling, error recovery, and enterprise API i…",
+          "PostgreSQL +1.4/4 (listed): Software Engineer with experience building production AI backend systems using Python, FastAPI, LangChain, Azure OpenAI…",
+          "Redis +3.0/3 (applied): Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "other backend +3.0/3 (applied): Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "Python used in internship/work +2: Darwinbox — SDE-1"
+        ],
+        "cloud_fullstack": [
+          "Docker +1.4/4 (listed): AWS (ECS, S3), Docker • Git • GitHub • GitLab CI • Jenkins • Kubernetes • Prometheus • ElasticSearch",
+          "deployment/CI +3.0/3 (applied): Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "AWS/Azure +3.0/3 (applied): Integrated Azure OpenAI and OpenAI APIs for document understanding, image parsing, and enterprise workflow automation,…",
+          "React/Next.js in an end-to-end project +3: Providence — Summer SDE Intern"
+        ],
+        "github": [
+          "Latest push 36 days ago: +2/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "3 original repo(s) updated in the last year: +2/2",
+          "1 of them Python/AI-relevant (wexa-ai-assignment): +1/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): Built LangSmith evaluation pipelines with reproducible testing infrastructure using recorded API responses, database sn…",
+          "caching +1.0/1 (applied): Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-dr…",
+          "observability +1.0/1 (applied): Built LangSmith evaluation pipelines with reproducible testing infrastructure using recorded API responses, database sn…",
+          "concurrency +1.0/1 (applied): Implemented resilient agent workflows with asynchronous streaming, retry handling, error recovery, and enterprise API i…",
+          "resilience +1.0/1 (applied): Implemented resilient agent workflows with asynchronous streaming, retry handling, error recovery, and enterprise API i…",
+          "architecture +1.0/1 (applied): Authored 11+ merged pull requests accepted by PyPA maintainers across performance optimization, architecture refactorin…"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Pydantic",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "MCP",
+        "LangChain",
+        "OpenAI API",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "Pinecone",
+        "LLM evaluation",
+        "Structured output",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Java",
+        "Testing",
+        "Caching",
+        "Observability",
+        "Concurrency",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Darwinbox — SDE-1: agent orchestration, tool calling, retrieval/RAG, state/memory, evaluation, structured output/guardrails, backend integration and data processing, built with Python, FastAPI, MCP, LangChain, OpenAI API, Redis.",
+      "projects": [
+        "Python Packaging Authority (PyPA) — Bandersnatch"
+      ],
+      "github_url": "https://github.com/raghuvardhan07",
+      "github_summary": "Last push 36 days ago, active on 1 day(s) in the last 90; 3 repo(s) maintained this year, 1 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Solid Python backend evidence in real work",
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)"
+      ],
+      "concerns": [],
+      "evidence": [
+        "Developed production-grade backend services and REST APIs using Python, FastAPI, MongoDB, Redis, and SQL to power AI-driven enterprise HRMS workflows.",
+        "Built LangChain-based multi-step AI agent workflows integrating enterprise APIs, MCP tools, semantic retrieval, document processing, and business automation across multiple HR modules."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_30.pdf",
+      "email": "v***@gmail.com"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Prathamesh Patil",
+      "eligible": true,
+      "total_score": 87.4,
+      "score_breakdown": {
+        "ai_project_depth": 34.8,
+        "python_backend": 25.6,
+        "cloud_fullstack": 13.0,
+        "github": 9.0,
+        "engineering_depth": 5.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Adaptive Agentic RAG - Multi-Agent Research System",
+          "agent orchestration +7: Architected a LangGraph multi-agent pipeline with conditional routing between local vector stores and real-time web sea…",
+          "retrieval/RAG +8: Designed persistent semantic user profiling with PostgreSQL + pgvector, combining Groq Llama 3.3 for low-latency reason…",
+          "evaluation +5: Architected a LangGraph multi-agent pipeline with conditional routing between local vector stores and real-time web sea…",
+          "backend integration +3: Designed persistent semantic user profiling with PostgreSQL + pgvector, combining Groq Llama 3.3 for low-latency reason…",
+          "data processing +1: Architected a LangGraph multi-agent pipeline with conditional routing between local vector stores and real-time web sea…",
+          "production/business impact +3: Designed persistent semantic user profiling with PostgreSQL + pgvector, combining Groq Llama 3.3 for low-latency reason…",
+          "LLM framework/API +1: Architected a LangGraph multi-agent pipeline with conditional routing between local vector stores and real-time web sea…",
+          "Second AI project 'AI & Cloud Computing Intern, SuprMentr Technology Pvt Ltd' adds 25% of its 27: +6.8"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): Tools Used: Python LangGraph Groq (Llama 3.3) PostgreSQL + pgvector ChromaDB FastAPI",
+          "FastAPI +6.0/6 (applied): Designed and deployed scalable ML-backed REST APIs using FastAPI and AWS Lambda, integrating LLM APIs and OOP",
+          "async +4.0/4 (applied): Built an asynchronous multimodal AI pipeline using Gemini 1.5 Flash for VLM reasoning, orchestrated through Celery",
+          "PostgreSQL +4.0/4 (applied): Developed complex SQL queries (window functions, CTEs, aggregations) on PostgreSQL/pgvector and visualized weekly",
+          "Redis +3.0/3 (applied): Integrated Redis Streams for event-driven messaging between agent nodes, utilizing Git version control and Groq Llama 3…",
+          "other backend +3.0/3 (applied): Designed and deployed scalable ML-backed REST APIs using FastAPI and AWS Lambda, integrating LLM APIs and OOP"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Containerized enterprise microservices with Docker and orchestrated via Kubernetes, automating canary deployments",
+          "deployment/CI +3.0/3 (applied): Designed and deployed scalable ML-backed REST APIs using FastAPI and AWS Lambda, integrating LLM APIs and OOP",
+          "AWS/Azure +3.0/3 (applied): Designed and deployed scalable ML-backed REST APIs using FastAPI and AWS Lambda, integrating LLM APIs and OOP",
+          "React/Next.js in an end-to-end project +3: Software Engineer Intern - AI Division, Jmedia Corp"
+        ],
+        "github": [
+          "Latest push 0 days ago: +3/3",
+          "2 active day(s) with pushes/PRs in the last 90 days: +1/2",
+          "11 original repo(s) updated in the last year: +2/2",
+          "9 of them Python/AI-relevant (intentbench, replydesk, slotwise, Intelligent-Loan-Document-Processing): +3/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): Operationalised CI/CD with GitHub Actions (automated testing, multi-stage Docker builds) and Kubernetes-ready",
+          "caching +1.0/1 (applied): Integrated Redis Streams for event-driven messaging between agent nodes, utilizing Git version control and Groq Llama 3…",
+          "queue +1.0/1 (applied): using OOP-based self-correction nodes for hallucination detection, coordinated via Kafka.",
+          "observability +1.0/1 (applied): Instrumented robust services with structured event logging and Prometheus metrics; built weekly React dashboards in",
+          "concurrency +1.0/1 (applied): Built an asynchronous multimodal AI pipeline using Gemini 1.5 Flash for VLM reasoning, orchestrated through Celery",
+          "resilience +1.0/1 (applied): design patterns with rate-limiting middleware to reduce response latency by 35% and improve SLA compliance.",
+          "architecture +1.0/1 (applied): design patterns with rate-limiting middleware to reduce response latency by 35% and improve SLA compliance."
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Celery",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "Gemini",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "ChromaDB",
+        "pgvector",
+        "LLM evaluation",
+        "PostgreSQL",
+        "Redis",
+        "SQL",
+        "REST API",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Testing",
+        "Caching",
+        "Queues",
+        "Observability",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Adaptive Agentic RAG - Multi-Agent Research System: agent orchestration, retrieval/RAG, evaluation, backend integration and data processing, built with Python, FastAPI, LangGraph, Gemini, Open LLMs, ChromaDB.",
+      "projects": [
+        "Adaptive Agentic RAG - Multi-Agent Research System",
+        "AI-SaaS-Kit - Scalable Multimodal AI Boilerplate"
+      ],
+      "github_url": "https://github.com/Prathameshh-Patil",
+      "github_summary": "Last push 0 days ago, active on 2 day(s) in the last 90; 11 repo(s) maintained this year, 9 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Solid Python backend evidence in real work",
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [],
+      "evidence": [
+        "Tools Used: Python LangGraph Groq (Llama 3.3) PostgreSQL + pgvector ChromaDB FastAPI",
+        "Designed persistent semantic user profiling with PostgreSQL + pgvector, combining Groq Llama 3.3 for low-latency reasoning with 3072-dimension Gemini embeddings to reduce API costs."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_35.pdf",
+      "email": "p***@gmail.com"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Jyandeep Baishya",
+      "eligible": true,
+      "total_score": 83.2,
+      "score_breakdown": {
+        "ai_project_depth": 40.0,
+        "python_backend": 24.1,
+        "cloud_fullstack": 5.1,
+        "github": 10.0,
+        "engineering_depth": 4.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Agentic RAG Assistant",
+          "agent orchestration +7: Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3 specialized…",
+          "tool calling +5: Hardened a FastAPI backend with JWT auth, 60 req/min rate limiting, and a Redis response cache cutting repeat-query lat…",
+          "retrieval/RAG +8: Engineered hybrid Retrieval-Augmented Generation in Elasticsearch fusing BM25 and dense-vector kNN retrieval to lift an…",
+          "state/memory +5: Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3 specialized…",
+          "evaluation +5: Hardened a FastAPI backend with JWT auth, 60 req/min rate limiting, and a Redis response cache cutting repeat-query lat…",
+          "backend integration +3: Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3 specialized…",
+          "production/business impact +3: Engineered hybrid Retrieval-Augmented Generation in Elasticsearch fusing BM25 and dense-vector kNN retrieval to lift an…",
+          "LLM framework/API +1: Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3 specialized…",
+          "Second AI project 'Spiral Kite Labs — Software Engineer' adds 25% of its 25: +6.2",
+          "Capped at 40"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): and variable overlays, so the editor, API automation layer, and Python renderer could evolve without schema drift.",
+          "FastAPI +6.0/6 (applied): Hardened a FastAPI backend with JWT auth, 60 req/min rate limiting, and a Redis response cache cutting repeat-query",
+          "async +4.0/4 (applied): Extended batch generation through asynchronous operator workflows that render one PDF per dataset row, allowing",
+          "Redis +3.0/3 (applied): checkpointed, replayable graph persisted per thread in Redis, enabling durable memory that survives restarts plus",
+          "other backend +1.0/3 (listed): Development: TypeScript, Node.js, Express.js, FastAPI, REST APIs, React, Next.js, Redux Toolkit, TailwindCSS, shadcn/ui",
+          "Python used in internship/work +2: Spiral Kite Labs — Software Engineer"
+        ],
+        "cloud_fullstack": [
+          "AWS/Azure +2.1/3 (stack): LangGraph, Next.js, TypeScript, FastAPI, S3, ChromaDB",
+          "React/Next.js in an end-to-end project +3: Spiral Kite Labs — Software Engineer"
+        ],
+        "github": [
+          "Latest push 0 days ago: +3/3",
+          "11 active day(s) with pushes/PRs in the last 90 days: +2/2",
+          "9 original repo(s) updated in the last year: +2/2",
+          "5 of them Python/AI-relevant (Zyan-is-RAGged, Zyan-analyzing-biomech, Zyan-creating-notes, Zyan_agent_for_roadmap): +3/3"
+        ],
+        "engineering_depth": [
+          "caching +1.0/1 (applied): checkpointed, replayable graph persisted per thread in Redis, enabling durable memory that survives restarts plus",
+          "concurrency +1.0/1 (applied): Extended batch generation through asynchronous operator workflows that render one PDF per dataset row, allowing",
+          "resilience +1.0/1 (applied): Hardened a FastAPI backend with JWT auth, 60 req/min rate limiting, and a Redis response cache cutting repeat-query",
+          "architecture +1.0/1 (applied): Co-owned the architecture of lastminutessdeal.com, a multi-domain marketplace spanning customer, seller and admin"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "Tool calling",
+        "MCP",
+        "LangChain",
+        "LLM",
+        "RAG",
+        "ChromaDB",
+        "LLM evaluation",
+        "Redis",
+        "REST API",
+        "AWS",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Caching",
+        "Concurrency",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Agentic RAG Assistant: agent orchestration, tool calling, retrieval/RAG, state/memory, evaluation and backend integration, built with FastAPI, LangGraph, Redis.",
+      "projects": [
+        "Agentic RAG Assistant"
+      ],
+      "github_url": "https://github.com/ZyanHere",
+      "github_summary": "Last push 0 days ago, active on 11 day(s) in the last 90; 9 repo(s) maintained this year, 5 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Solid Python backend evidence in real work",
+        "Shows engineering depth (testing, caching, resilience)",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No PostgreSQL evidence",
+        "No Docker evidence"
+      ],
+      "evidence": [
+        "Hardened a FastAPI backend with JWT auth, 60 req/min rate limiting, and a Redis response cache cutting repeat-query latency ~50%; added human-in-the-loop approval via LangGraph interrupt/resume, tool…",
+        "Orchestrated a multi-agent chat system on a LangGraph StateGraph — a supervisor routing each turn across 3 specialized agents (search, summary, parallel) via reducer-based shared state — replacing br…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_07.pdf",
+      "email": "c***@gmail.com"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Yash Maini",
+      "eligible": true,
+      "total_score": 76.8,
+      "score_breakdown": {
+        "ai_project_depth": 34.0,
+        "python_backend": 27.0,
+        "cloud_fullstack": 8.8,
+        "github": 8.0,
+        "engineering_depth": 4.0,
+        "penalties": -5.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: NetoAI Solutions — Generative AI Engineer Intern",
+          "agent orchestration +7: Cut new-agent integration time 60% by building a multi-agent orchestration SDK that unified 8 agents behind one interfa…",
+          "tool calling +5: Cut new-agent integration time 60% by building a multi-agent orchestration SDK that unified 8 agents behind one interfa…",
+          "retrieval/RAG +8: Reduced production hallucination rates by curating a 1.5B-token domain fine-tuning corpus with structured chain-of-thou…",
+          "evaluation +5: Reduced production hallucination rates by curating a 1.5B-token domain fine-tuning corpus with structured chain-of-thou…",
+          "backend integration +3: Automated a 4-stage B2B sales pipeline across 7 Salesforce object types by building an 11-tool LangGraph copilot wiring…",
+          "data processing +1: Automated a 4-stage B2B sales pipeline across 7 Salesforce object types by building an 11-tool LangGraph copilot wiring…",
+          "production/business impact +3: Replaced manual PBX workflows for enterprise client Siemcom by architecting a production LLM voice agent on FreeSWITCH…",
+          "LLM framework/API +1: Replaced manual PBX workflows for enterprise client Siemcom by architecting a production LLM voice agent on FreeSWITCH…",
+          "Second AI project 'CopyGuard — Serverless GenAI Code Detection Platform' adds 25% of its 4: +1.0"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Cut end-to-end voice latency 40% to under 600ms under concurrent load by re-engineering the async Python inference laye…",
+          "FastAPI +6.0/6 (applied): FastAPI inference endpoint at sub-15ms latency with MLflow tracking and model registry.",
+          "async +4.0/4 (applied): Cut end-to-end voice latency 40% to under 600ms under concurrent load by re-engineering the async Python inference laye…",
+          "PostgreSQL +4.0/4 (applied): reuse/retry, Postgres-backed memory failover and 32 unit tests on a Dockerized gunicorn deploy.",
+          "other backend +3.0/3 (applied): FastAPI inference endpoint at sub-15ms latency with MLflow tracking and model registry.",
+          "Python used in internship/work +2: NetoAI Solutions — Generative AI Engineer Intern"
+        ],
+        "cloud_fullstack": [
+          "GCP +1.8/5 (listed): writes and NL-to-SQL analytics. Curated a 1.5B-token CoT fine-tuning corpus; 2× IEEE first author; MLOps across AWS and…",
+          "Docker +4.0/4 (applied): reuse/retry, Postgres-backed memory failover and 32 unit tests on a Dockerized gunicorn deploy.",
+          "deployment/CI +3.0/3 (applied): Replaced manual PBX workflows for enterprise client Siemcom by architecting a production LLM voice agent on FreeSWITCH +"
+        ],
+        "github": [
+          "Latest push 19 days ago: +3/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "11 original repo(s) updated in the last year: +2/2",
+          "7 of them Python/AI-relevant (face-verification-resnet50, pg-reliability-agent, LangChain-with-Python, Gaze-Prediction): +3/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): reuse/retry, Postgres-backed memory failover and 32 unit tests on a Dockerized gunicorn deploy.",
+          "observability +0.7/1 (stack): AWS Lambda, Bedrock Claude, Terraform, S3, CloudFront, Grafana – serverless GenAI detection service handling burst traf…",
+          "concurrency +1.0/1 (applied): Cut end-to-end voice latency 40% to under 600ms under concurrent load by re-engineering the async Python inference laye…",
+          "resilience +1.0/1 (applied): reuse/retry, Postgres-backed memory failover and 32 unit tests on a Dockerized gunicorn deploy.",
+          "architecture +0.3/1 (listed): Backend & APIs: Python, FastAPI, Flask, AsyncIO, REST, WebSockets, Microservices, Salesforce/SMTP integrations, Bash"
+        ],
+        "penalties": [
+          "-5: thin-wrapper AI project (CopyGuard — Serverless GenAI Code Detection Platform)"
+        ]
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "pandas",
+        "NumPy",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "asyncio",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "Tool calling",
+        "LangChain",
+        "OpenAI API",
+        "Ollama",
+        "Open LLMs",
+        "LLM",
+        "LLM fine-tuning",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "FAISS",
+        "Pinecone",
+        "pgvector",
+        "LLM evaluation",
+        "PostgreSQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "GCP",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "Testing",
+        "Observability",
+        "Concurrency",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "NetoAI Solutions — Generative AI Engineer Intern: agent orchestration, tool calling, retrieval/RAG, evaluation, backend integration and data processing, built with Python, asyncio, LangGraph, OpenAI API, Ollama, Open LLMs.",
+      "projects": [
+        "CopyGuard — Serverless GenAI Code Detection Platform",
+        "ThreatMatrix — MLOps Pipeline for Network Intrusion Detection",
+        "Candida Hyphae Segmentation — Deep Learning for Medical Imaging",
+        "Recall 0.94 across 86,000 tiles; 38× faster data pipeline."
+      ],
+      "github_url": "https://github.com/Yashmaini30",
+      "github_summary": "Last push 19 days ago, active on 1 day(s) in the last 90; 11 repo(s) maintained this year, 7 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Solid Python backend evidence in real work",
+        "Shows engineering depth (testing, caching, resilience)",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "Thin-wrapper AI project"
+      ],
+      "evidence": [
+        "Automated a 4-stage B2B sales pipeline across 7 Salesforce object types by building an 11-tool LangGraph copilot wiring frontend →backend →agent →Salesforce REST API, with 4-vendor LLM routing (Mistr…",
+        "Cut end-to-end voice latency 40% to under 600ms under concurrent load by re-engineering the async Python inference layer with asyncio, streaming generation and parallelized TTS."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_13.pdf",
+      "email": "m***@gmail.com"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Nevil Jasmin Mehta",
+      "eligible": true,
+      "total_score": 73.0,
+      "score_breakdown": {
+        "ai_project_depth": 16.0,
+        "python_backend": 30.0,
+        "cloud_fullstack": 13.0,
+        "github": 10.0,
+        "engineering_depth": 4.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI Document Intelligence",
+          "retrieval/RAG +8: Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+          "backend integration +3: Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+          "production/business impact +3: Implemented async processing, embeddings & Dockerized AWS-ready architecture, reduce processing time by 45%.",
+          "LLM framework/API +1: Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+          "Second AI project 'Enhanced an AI content detection system using watermarking for LLMs, improving detection…' adds 25% of its 4: +1.0"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Optimized data queries and automated CAD workflows using Python, improving scalability and reducing manual effort.",
+          "FastAPI +6.0/6 (applied): Utilized web scraping tools, deployed apps on Heroku, and built FastAPI projects including quiz and vehicle systems.",
+          "async +4.0/4 (applied): Implemented async processing, embeddings & Dockerized AWS-ready architecture, reduce processing time by 45%.",
+          "PostgreSQL +4.0/4 (applied): Built a scalable backend system using FastAPI, PostgreSQL, Redis and Celery to collect, process & analyze job market da…",
+          "Redis +3.0/3 (applied): Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+          "other backend +3.0/3 (applied): Delivered and maintained APIs using Django REST Framework, focusing on performance and system efficiency.",
+          "Python used in internship/work +2: Software Developer, InfiniteAi Technology Private Limited"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Implemented async processing, embeddings & Dockerized AWS-ready architecture, reduce processing time by 45%.",
+          "deployment/CI +3.0/3 (applied): Integrated AWS cloud (Lambda, S3, Amplify, and Cognito) for deployment, authentication, and access control.",
+          "AWS/Azure +3.0/3 (applied): Integrated AWS cloud (Lambda, S3, Amplify, and Cognito) for deployment, authentication, and access control.",
+          "React/Next.js in an end-to-end project +3: Developed a business website using React.js, Java backend, and MySQL, ensuring scalabilit…"
+        ],
+        "github": [
+          "Latest push 5 days ago: +3/3",
+          "20 active day(s) with pushes/PRs in the last 90 days: +2/2",
+          "15 original repo(s) updated in the last year: +2/2",
+          "13 of them Python/AI-relevant (neetcode-submissions, stocks-ai, Memory-Garden, personal-ai-assistant): +3/3"
+        ],
+        "engineering_depth": [
+          "caching +1.0/1 (applied): Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+          "queue +1.0/1 (applied): Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+          "concurrency +1.0/1 (applied): Implemented async processing, embeddings & Dockerized AWS-ready architecture, reduce processing time by 45%.",
+          "architecture +1.0/1 (applied): Built a real-time voice interaction system for audio processing and response generation using cloud architecture."
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "pandas",
+        "NumPy",
+        "Celery",
+        "Streamlit",
+        "Async programming",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Qdrant",
+        "pgvector",
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "AI Document Intelligence: retrieval/RAG and backend integration, built with FastAPI, Celery, pgvector, Redis, AWS, Docker.",
+      "projects": [
+        "AI Document Intelligence",
+        "Job Market ETL Platform",
+        "Enhanced an AI content detection system using watermarking for LLMs, improving detection…",
+        "Built a full-stack NLP application for sentiment and emotion analysis using real-time Twi…"
+      ],
+      "github_url": "https://github.com/Nevilmehta",
+      "github_summary": "Last push 5 days ago, active on 20 day(s) in the last 90; 15 repo(s) maintained this year, 13 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Solid Python backend evidence in real work",
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [],
+      "evidence": [
+        "Built a document platform using RAG, FastAPI, Redis, Celery, pgvector, Nginx & LLMs, improving retrieval accuracy.",
+        "Implemented async processing, embeddings & Dockerized AWS-ready architecture, reduce processing time by 45%."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_50.pdf",
+      "email": "n***@gmail.com"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "Prajwal A S",
+      "eligible": true,
+      "total_score": 69.8,
+      "score_breakdown": {
+        "ai_project_depth": 28.8,
+        "python_backend": 25.0,
+        "cloud_fullstack": 6.0,
+        "github": 7.0,
+        "engineering_depth": 3.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Project Associate - I — CSIR Fourth Paradigm Institute (CSIR-4PI)",
+          "agent orchestration +7: Architected a production NL-to-SQL AI agent enabling cluster operators to query live HPC telemetry in natural language,…",
+          "retrieval/RAG +8: Built a really fast LLM inference pipeline through prompt restructuring, token reduction, and RAG-style few-shot contex…",
+          "backend integration +3: Architected a production NL-to-SQL AI agent enabling cluster operators to query live HPC telemetry in natural language,…",
+          "data processing +1: Designed a 7-stage async FastAPI pipeline: intent classification → schema grounding → few-shot prompt construction → LL…",
+          "production/business impact +3: Architected a production NL-to-SQL AI agent enabling cluster operators to query live HPC telemetry in natural language,…",
+          "LLM framework/API +1: Architected a production NL-to-SQL AI agent enabling cluster operators to query live HPC telemetry in natural language,…",
+          "Second AI project 'AI-Powered HPC Monitoring Assistant — CHAMP Supercomputer' adds 25% of its 23: +5.8"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Python · FastAPI · LiveKit Agents · React · PostgreSQL (Neon) · Sarvam AI (STT/TTS)",
+          "FastAPI +6.0/6 (applied): Designed a 7-stage async FastAPI pipeline: intent classification → schema grounding → few-shot prompt construction → LLM",
+          "async +4.0/4 (applied): Designed a 7-stage async FastAPI pipeline: intent classification → schema grounding → few-shot prompt construction → LLM",
+          "PostgreSQL +4.0/4 (applied): SQL generation → validation → PostgreSQL execution → NL response synthesis.",
+          "other backend +3.0/3 (applied): Implemented returning-patient recognition via phone-number lookup and built the REST API layer (FastAPI, SQLAlchemy)"
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +3.0/3 (applied): Architected a production NL-to-SQL AI agent enabling cluster operators to query live HPC telemetry in natural language,",
+          "React/Next.js in an end-to-end project +3: AI Voice Appointment Assistant — Healthcare Voice AI Agent"
+        ],
+        "github": [
+          "Latest push 62 days ago: +2/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "8 original repo(s) updated in the last year: +2/2",
+          "6 of them Python/AI-relevant (voice-ai-backend, voice-ai-frontend, python-low-level-design, medical-ai-assistant): +3/3"
+        ],
+        "engineering_depth": [
+          "observability +1.0/1 (applied): Built Grafana dashboards to visualize what's happening across the HPC cluster in real time, at cluster, rack, node, and…",
+          "concurrency +1.0/1 (applied): Designed a 7-stage async FastAPI pipeline: intent classification → schema grounding → few-shot prompt construction → LLM",
+          "architecture +1.0/1 (applied): Designed a tool-calling architecture so the LLM never invents appointment IDs or availability — every action is backed…"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Pydantic",
+        "SQLAlchemy",
+        "asyncio",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "Tool calling",
+        "LangChain",
+        "Ollama",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "pgvector",
+        "PostgreSQL",
+        "SQL",
+        "REST API",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Observability",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Project Associate - I — CSIR Fourth Paradigm Institute (CSIR-4PI): agent orchestration, retrieval/RAG, backend integration and data processing, built with FastAPI, Flask, Ollama, Open LLMs, PostgreSQL.",
+      "projects": [
+        "AI Voice Appointment Assistant — Healthcare Voice AI Agent",
+        "GitHub Repository",
+        "AI-Powered HPC Monitoring Assistant — CHAMP Supercomputer"
+      ],
+      "github_url": "https://github.com/prajwalas1",
+      "github_summary": "Last push 62 days ago, active on 0 day(s) in the last 90; 8 repo(s) maintained this year, 6 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Solid Python backend evidence in real work",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Designed a 7-stage async FastAPI pipeline: intent classification → schema grounding → few-shot prompt construction → LLM SQL generation → validation → PostgreSQL execution → NL response synthesis.",
+        "Architected a production NL-to-SQL AI agent enabling cluster operators to query live HPC telemetry in natural language, achieving 93.0% accuracy across 1,000 production queries with a locally-deploye…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_22.pdf",
+      "email": "p***@gmail.com"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "Raj Thumar",
+      "eligible": true,
+      "total_score": 67.1,
+      "score_breakdown": {
+        "ai_project_depth": 31.0,
+        "python_backend": 21.6,
+        "cloud_fullstack": 7.5,
+        "github": 2.0,
+        "engineering_depth": 5.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI Workflow Orchestration Engine",
+          "agent orchestration +7: Developed reusable AI workflow components with MCP integration, scheduling, retries, and execution monitoring.",
+          "tool calling +5: Developed reusable AI workflow components with MCP integration, scheduling, retries, and execution monitoring.",
+          "retrieval/RAG +8: Integrated OpenAI, Gemini, and RAG for context-aware AI workflows.",
+          "backend integration +3: Designed asynchronous job processing using Apache Kafka and Redis for scalable AI tasks.",
+          "data processing +1: Built a distributed AI workflow engine to execute multi-step LLM pipelines using event-driven architecture.",
+          "LLM framework/API +1: Built a distributed AI workflow engine to execute multi-step LLM pipelines using event-driven architecture.",
+          "Second AI project 'Blobstation — Software Engineer' adds 25% of its 24: +6.0"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): SDE Intern (Python, Flask, Phantom, Splunk SOAR System)",
+          "async +4.0/4 (applied): asynchronous background processing.",
+          "PostgreSQL +4.0/4 (applied): AI Workflow Orchestration Engine(NestJS, Apache Kafka, PostgreSQL, Redis, OpenAI, Gemini):",
+          "Redis +3.0/3 (applied): Built Redis for caching and background jobs, and implemented SMTP-based email services for automated notifications.",
+          "other backend +3.0/3 (applied): REST APIs and background workers in microservice-based architectures. Built a scalable multi-tenant architecture enabli…",
+          "Python used in internship/work +2: Crest Data — SDE Intern"
+        ],
+        "cloud_fullstack": [
+          "Docker +1.4/4 (listed): Docker, AWS S3, EC2, ElastikBeanStalk, GitHub Actions",
+          "deployment/CI +1.0/3 (listed): Docker, AWS S3, EC2, ElastikBeanStalk, GitHub Actions",
+          "AWS/Azure +2.1/3 (stack): Software Engineer(Nodejs, NestJS, ASP.NET Core, ReactJS, AWS)",
+          "React/Next.js in an end-to-end project +3: Blobstation — Software Engineer"
+        ],
+        "github": [
+          "Latest push 242 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "2 original repo(s) updated in the last year: +1/2",
+          "0 of them Python/AI-relevant (none): +0/3"
+        ],
+        "engineering_depth": [
+          "caching +1.0/1 (applied): Built Redis for caching and background jobs, and implemented SMTP-based email services for automated notifications.",
+          "queue +1.0/1 (applied): Configured Apache Kafka-based event-driven architecture for scalable operational workflows, real-time notifications, and",
+          "observability +1.0/1 (applied): Developed reusable AI workflow components with MCP integration, scheduling, retries, and execution monitoring.",
+          "concurrency +1.0/1 (applied): asynchronous background processing.",
+          "resilience +1.0/1 (applied): Developed reusable AI workflow components with MCP integration, scheduling, retries, and execution monitoring.",
+          "architecture +1.0/1 (applied): REST APIs and background workers in microservice-based architectures. Built a scalable multi-tenant architecture enabli…"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Async programming",
+        "MCP",
+        "OpenAI API",
+        "Gemini",
+        "LLM",
+        "RAG",
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "REST API",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "Caching",
+        "Queues",
+        "Observability",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "AI Workflow Orchestration Engine: agent orchestration, tool calling, retrieval/RAG, backend integration and data processing, built with MCP, OpenAI API, Gemini, PostgreSQL, Redis.",
+      "projects": [
+        "AI Workflow Orchestration Engine",
+        "SM (Multitenant Subscription Management"
+      ],
+      "github_url": "https://github.com/rthumar0903",
+      "github_summary": "Last push 242 days ago, active on 0 day(s) in the last 90; 2 repo(s) maintained this year, 0 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth",
+        "Solid Python backend evidence in real work",
+        "Shows engineering depth (testing, caching, resilience)"
+      ],
+      "concerns": [
+        "No FastAPI evidence"
+      ],
+      "evidence": [
+        "Built a distributed AI workflow engine to execute multi-step LLM pipelines using event-driven architecture.",
+        "Integrated OpenAI, Gemini, and RAG for context-aware AI workflows."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_40.pdf",
+      "email": "t***@gmail.com"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "Vivek Chimnani",
+      "eligible": true,
+      "total_score": 65.8,
+      "score_breakdown": {
+        "ai_project_depth": 19.0,
+        "python_backend": 22.8,
+        "cloud_fullstack": 13.0,
+        "github": 6.0,
+        "engineering_depth": 5.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI Research Copilot (LangGraph)",
+          "agent orchestration +7: Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs.",
+          "state/memory +5: Designed a multi-node workﬂow with planning, research, analysis, quality checks, and report generation using shared gra…",
+          "backend integration +3: Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs.",
+          "production/business impact +3: Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs.",
+          "LLM framework/API +1: Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs."
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): TypeScript, JavaScript, Python, Rust",
+          "FastAPI +6.0/6 (applied): Built full-stack platform features using React, Next.js, FastAPI, PostgreSQL, Redis, and TypeScript.",
+          "async +4.0/4 (applied): Re-architected backend into scalable asynchronous infrastructure using Redis queues and event-driven execution.",
+          "PostgreSQL +4.0/4 (applied): Built full-stack platform features using React, Next.js, FastAPI, PostgreSQL, Redis, and TypeScript.",
+          "Redis +3.0/3 (applied): Built full-stack platform features using React, Next.js, FastAPI, PostgreSQL, Redis, and TypeScript.",
+          "other backend +3.0/3 (applied): Developed real-time WebSocket/RPC pipelines powering live application state and protocol interactions."
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Built distributed execution pipelines integrating GPU infrastructure through Modal, Docker, and AWS.",
+          "deployment/CI +3.0/3 (applied): Optimized backend reliability, concurrency, and low-latency execution under production workloads.",
+          "AWS/Azure +3.0/3 (applied): Built distributed execution pipelines integrating GPU infrastructure through Modal, Docker, and AWS.",
+          "React/Next.js in an end-to-end project +3: Fluid — Jupiter (Juplend)"
+        ],
+        "github": [
+          "Latest push 21 days ago: +3/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "17 original repo(s) updated in the last year: +2/2",
+          "1 of them Python/AI-relevant (Dossier): +1/3"
+        ],
+        "engineering_depth": [
+          "caching +1.0/1 (applied): Built full-stack platform features using React, Next.js, FastAPI, PostgreSQL, Redis, and TypeScript.",
+          "queue +1.0/1 (applied): Re-architected backend into scalable asynchronous infrastructure using Redis queues and event-driven execution.",
+          "observability +1.0/1 (applied): Designed real-time interfaces with WebSockets for execution monitoring and workﬂow management.",
+          "concurrency +1.0/1 (applied): Optimized backend reliability, concurrency, and low-latency execution under production workloads.",
+          "architecture +1.0/1 (applied): Re-architected backend into scalable asynchronous infrastructure using Redis queues and event-driven execution."
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Async programming",
+        "LangGraph",
+        "LLM",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "REST API",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Queues",
+        "Observability",
+        "Concurrency",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "AI Research Copilot (LangGraph): agent orchestration, state/memory and backend integration, built with FastAPI, LangGraph, React.",
+      "projects": [
+        "AI Research Copilot (LangGraph)",
+        "BlowupBot — Solana Token Launchpad",
+        "Open Source — Rust Cargo"
+      ],
+      "github_url": "https://github.com/Vivekk-11",
+      "github_summary": "Last push 21 days ago, active on 0 day(s) in the last 90; 17 repo(s) maintained this year, 1 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Solid Python backend evidence in real work",
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)"
+      ],
+      "concerns": [],
+      "evidence": [
+        "Built a production-style AI research assistant using React, FastAPI, LangGraph, and LLM APIs.",
+        "Documented architecture, engineering trade-oﬀs, product roadmap, and production scalability considerations."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_44.pdf",
+      "email": "v***@gmail.com"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "Gourab Das",
+      "eligible": true,
+      "total_score": 65.6,
+      "score_breakdown": {
+        "ai_project_depth": 23.0,
+        "python_backend": 20.9,
+        "cloud_fullstack": 13.0,
+        "github": 4.0,
+        "engineering_depth": 4.7,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Software Developer — Staqu Technologies",
+          "agent orchestration +7: Engineered tool-augmented AI agents using LangGraph to automate intelligence gathering. Integrated generic SQL tools fo…",
+          "retrieval/RAG +8: Improved semantic search reliability by fixing chunking-limit issues in Milvus ingestion pipelines and enhancing retrie…",
+          "backend integration +3: Engineered tool-augmented AI agents using LangGraph to automate intelligence gathering. Integrated generic SQL tools fo…",
+          "data processing +1: Enhanced an existing document-processing pipeline by improving entity extraction accuracy and adding crime classificati…",
+          "production/business impact +3: Implemented multi-tenant capabilities in an existing law-enforcement platform by adding organization-level filtering an…",
+          "LLM framework/API +1: Engineered tool-augmented AI agents using LangGraph to automate intelligence gathering. Integrated generic SQL tools fo…"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): enterprise applications using Python (Django/FastAPI) and Java. Experienced in semantic search, multi-tenant",
+          "FastAPI +6.0/6 (applied): Neo4j graph database to analyze complex suspect linkages. Built RESTful APIs (Django/FastAPI) to visualize",
+          "async +4.0/4 (applied): Integrated Kafka-based asynchronous workflows to process compliance checks reliably under peak traffic.",
+          "PostgreSQL +4.0/4 (applied): Designed a full-stack platform using ReactJS and Django, optimizing a PostgreSQL database to manage",
+          "Redis +1.0/3 (listed): Databases: MySQL, PostgreSQL, ClickHouse, Milvus, Neo4j, MongoDB, OpenSearch, Redis",
+          "other backend +3.0/3 (applied): Neo4j graph database to analyze complex suspect linkages. Built RESTful APIs (Django/FastAPI) to visualize"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Automated infrastructure deployment utilizing Docker, Nginx, and GitHub CI/CD pipelines to ensure",
+          "deployment/CI +3.0/3 (applied): filtering and role-based access controls to support secure deployment across multiple agencies.",
+          "AWS/Azure +3.0/3 (applied): Developed Flask APIs and a MongoDB backend for a medical application, deploying to AWS and ensuring",
+          "React/Next.js in an end-to-end project +3: SMILE"
+        ],
+        "github": [
+          "Latest push 18 days ago: +3/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "1 original repo(s) updated in the last year: +1/2",
+          "0 of them Python/AI-relevant (none): +0/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): enterprise reliability with 500+ PyTest unit tests.",
+          "caching +0.3/1 (listed): Databases: MySQL, PostgreSQL, ClickHouse, Milvus, Neo4j, MongoDB, OpenSearch, Redis",
+          "queue +1.0/1 (applied): Integrated Kafka-based asynchronous workflows to process compliance checks reliably under peak traffic.",
+          "concurrency +1.0/1 (applied): Integrated Kafka-based asynchronous workflows to process compliance checks reliably under peak traffic.",
+          "resilience +1.0/1 (applied): Implemented idempotency keys and audit tracking mechanisms to improve transaction reliability and support",
+          "architecture +0.3/1 (listed): Backend: Django, FastAPI, Spring Boot, Flask, RESTful APIs, Microservices"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "pytest",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "LangChain",
+        "RAG",
+        "Vector search",
+        "Reranking",
+        "Chunking",
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Java",
+        "Spring Boot",
+        "C++",
+        "Testing",
+        "Queues",
+        "Concurrency",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Software Developer — Staqu Technologies: agent orchestration, retrieval/RAG, backend integration and data processing, built with FastAPI, Django, LangGraph.",
+      "projects": [
+        "SMILE"
+      ],
+      "github_url": "https://github.com/gdas37467",
+      "github_summary": "Last push 18 days ago, active on 1 day(s) in the last 90; 1 repo(s) maintained this year, 0 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)"
+      ],
+      "concerns": [],
+      "evidence": [
+        "Engineered tool-augmented AI agents using LangGraph to automate intelligence gathering. Integrated generic SQL tools for natural language interactions over telecom records and structured entity queri…",
+        "Improved semantic search reliability by fixing chunking-limit issues in Milvus ingestion pipelines and enhancing retrieval quality with reranking and query-suggestion generation."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_17.pdf",
+      "email": "g***@gmail.com"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "Vaibhav Wakde",
+      "eligible": true,
+      "total_score": 63.2,
+      "score_breakdown": {
+        "ai_project_depth": 24.0,
+        "python_backend": 23.0,
+        "cloud_fullstack": 5.5,
+        "github": 7.0,
+        "engineering_depth": 3.7,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Coding Nebula, Software developer",
+          "retrieval/RAG +8: Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling semantic retrieval…",
+          "state/memory +5: Implemented embedding caching to reduce repeated document processing by ˜50%, and built secure RESTful APIs with Fireba…",
+          "backend integration +3: Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling semantic retrieval…",
+          "production/business impact +3: Implemented embedding caching to reduce repeated document processing by ˜50%, and built secure RESTful APIs with Fireba…",
+          "LLM framework/API +1: Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling semantic retrieval…",
+          "Second AI project 'AI-Powered Healthcare Interaction Management System' adds 25% of its 16: +4.0"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling",
+          "FastAPI +6.0/6 (applied): Integrated Groq LLM with FastAPI to process conversational inputs, execute multi-step AI workflows, and",
+          "async +4.0/4 (applied): Qwen3-Embedding-0.6B) for context-aware retrieval and asynchronous Flask APIs for real-time generation.",
+          "other backend +3.0/3 (applied): Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling",
+          "Python used in internship/work +2: Coding Nebula, Software developer"
+        ],
+        "cloud_fullstack": [
+          "Docker +1.4/4 (listed): Git, Docker, AWS, Postman",
+          "deployment/CI +3.0/3 (applied): Designed and deployed a fully offline Android Conversational AI chatbot for 10th-grade NCERT textbooks using",
+          "AWS/Azure +1.0/3 (listed): Git, Docker, AWS, Postman"
+        ],
+        "github": [
+          "Latest push 22 days ago: +3/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "4 original repo(s) updated in the last year: +2/2",
+          "3 of them Python/AI-relevant (AI-First-CRM-HCP-Module, reimbursement-agent, job-search-assistance): +2/3"
+        ],
+        "engineering_depth": [
+          "testing +0.3/1 (listed): Asyncio, pytest, Pandas, NumPy, Anaconda",
+          "caching +1.0/1 (applied): Implemented embedding caching to reduce repeated document processing by ˜50%, and built secure RESTful",
+          "observability +1.0/1 (applied): Built a LangGraph-based AI agent with tool calling to automate interaction logging, editing, follow-up scheduling,",
+          "concurrency +1.0/1 (applied): Qwen3-Embedding-0.6B) for context-aware retrieval and asynchronous Flask APIs for real-time generation.",
+          "architecture +0.3/1 (listed): FastAPI, Flask, REST APIs, Microservices Architecture, LangChain, LlamaIndex,Langgraph,"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "pandas",
+        "NumPy",
+        "Streamlit",
+        "pytest",
+        "asyncio",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "Tool calling",
+        "LangChain",
+        "LlamaIndex",
+        "Hugging Face",
+        "OpenAI API",
+        "Ollama",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "ChromaDB",
+        "Weaviate",
+        "MySQL",
+        "SQL",
+        "NoSQL stores",
+        "REST API",
+        "AWS",
+        "Docker",
+        "Deployment",
+        "JavaScript",
+        "C++",
+        "Caching",
+        "Observability",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Coding Nebula, Software developer: retrieval/RAG, state/memory and backend integration, built with Python, Flask, LangChain, LlamaIndex, Hugging Face, Ollama.",
+      "projects": [
+        "AI-Powered Healthcare Interaction Management System",
+        "Online Coding Profiles"
+      ],
+      "github_url": "https://github.com/vaibhavw1",
+      "github_summary": "Last push 22 days ago, active on 1 day(s) in the last 90; 4 repo(s) maintained this year, 3 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Solid Python backend evidence in real work",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No PostgreSQL evidence",
+        "No Redis evidence"
+      ],
+      "evidence": [
+        "Built an AI system that generates website templates from text prompts, using RAG (LangChain, LlamaIndex, Qwen3-Embedding-0.6B) for context-aware retrieval and asynchronous Flask APIs for real-time ge…",
+        "Built an AI-powered invoice analysis platform using Python, Flask, OCR, RAG, and Weaviate, enabling semantic retrieval and conversational querying across PDF and image invoices with Ollama and Huggin…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_33.pdf",
+      "email": "v***@gmail.com"
+    },
+    {
+      "rank": 11,
+      "candidate_name": "Kiran Naregal",
+      "eligible": true,
+      "total_score": 61.3,
+      "score_breakdown": {
+        "ai_project_depth": 29.8,
+        "python_backend": 17.1,
+        "cloud_fullstack": 8.4,
+        "github": 4.0,
+        "engineering_depth": 2.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI Engineer — Vayavya Labs, Bangalore",
+          "agent orchestration +7: Contributing to Tvastaa VP, an agentic workflow built with the Claude Agent SDK that generates SystemC models from IP d…",
+          "retrieval/RAG +8: Integrated LLM-powered automatic captioning system to generate descriptive text for figures, diagrams, and tables, enha…",
+          "evaluation +5: Developed an automated C assessment review system using LangChain that processes C source files and generates structure…",
+          "structured output/guardrails +2: Optimized pipeline performance through iterative refinement and cross-functional collaboration, delivering high-quality…",
+          "data processing +1: Architected an end-to-end Python pipeline for converting hardware specification PDFs to structured Markdown, utilizing…",
+          "production/business impact +3: Optimized pipeline performance through iterative refinement and cross-functional collaboration, delivering high-quality…",
+          "LLM framework/API +1: Integrated LLM-powered automatic captioning system to generate descriptive text for figures, diagrams, and tables, enha…",
+          "Second AI project 'Code Review Agent' adds 25% of its 11: +2.8"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Architected an end-to-end Python pipeline for converting hardware specification PDFs to structured",
+          "FastAPI +6.0/6 (applied): Designed the full system architecture from scratch — FastAPI backend with structured Pydantic validation at",
+          "other backend +1.0/3 (listed): Databases: MongoDB, SQL",
+          "Python used in internship/work +2: AI Engineer — Vayavya Labs, Bangalore"
+        ],
+        "cloud_fullstack": [
+          "Docker +1.4/4 (listed): Tools & DevOps: Docker, Git, GitHub",
+          "deployment/CI +3.0/3 (applied): demoed publicly at DVCon 2026, with client deployment planned in the coming months.",
+          "AWS/Azure +3.0/3 (applied): Architected serverless workflows using AWS step functions workflow studio and lambda function for a",
+          "React/Next.js outside an end-to-end project +1"
+        ],
+        "github": [
+          "Latest push 51 days ago: +2/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "1 original repo(s) updated in the last year: +1/2",
+          "1 of them Python/AI-relevant (code-review-agent): +1/3"
+        ],
+        "engineering_depth": [
+          "observability +1.0/1 (applied): the LangGraph TypedDict boundary, rotating file logging, and a dark-themed single-page frontend with no",
+          "architecture +1.0/1 (applied): Designed the full system architecture from scratch — FastAPI backend with structured Pydantic validation at"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "pandas",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "LangChain",
+        "Hugging Face",
+        "OpenAI API",
+        "Claude API",
+        "Ollama",
+        "LLM",
+        "RAG",
+        "LLM evaluation",
+        "Structured output",
+        "MongoDB",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Deployment",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "C++",
+        "Observability",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "AI Engineer — Vayavya Labs, Bangalore: agent orchestration, retrieval/RAG, evaluation, structured output/guardrails and data processing, built with Python, LangChain.",
+      "projects": [
+        "Code Review Agent",
+        "DGX Server Management Portal"
+      ],
+      "github_url": "https://github.com/kiran-naregal",
+      "github_summary": "Last push 51 days ago, active on 0 day(s) in the last 90; 1 repo(s) maintained this year, 1 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Strong AI/agentic project depth"
+      ],
+      "concerns": [
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence"
+      ],
+      "evidence": [
+        "Optimized pipeline performance through iterative refinement and cross-functional collaboration, delivering high-quality structured outputs with 97-98% accuracy for downstream LLM processing and RAG-b…",
+        "Contributing to Tvastaa VP, an agentic workflow built with the Claude Agent SDK that generates SystemC models from IP datasheets by chaining into the existing Docling-based preprocessing pipeline; bu…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_47.pdf",
+      "email": "k***@gmail.com"
+    },
+    {
+      "rank": 12,
+      "candidate_name": "Arjun Kumar",
+      "eligible": true,
+      "total_score": 60.7,
+      "score_breakdown": {
+        "ai_project_depth": 18.8,
+        "python_backend": 25.8,
+        "cloud_fullstack": 5.1,
+        "github": 9.0,
+        "engineering_depth": 2.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI-Powered Resume Screening & Job Matching System",
+          "retrieval/RAG +8: Built an end-to-end resume screening tool using BERT embeddings and NLP for semantic matching, hitting 96% accuracy; th…",
+          "backend integration +3: Python, BERT, NLP, LangChain, ReactJS, Django REST API, PostgreSQL",
+          "production/business impact +3: Built an end-to-end resume screening tool using BERT embeddings and NLP for semantic matching, hitting 96% accuracy; th…",
+          "LLM framework/API +1: Python, BERT, NLP, LangChain, ReactJS, Django REST API, PostgreSQL",
+          "Second AI project 'Deepfake Detection System (Multimodal & Explainable AI)' adds 25% of its 15: +3.8"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Trained and compared ML classification models in Python, handling feature engineering and data preprocessing from scrat…",
+          "FastAPI +6.0/6 (applied): accuracy; the FastAPI backend runs async with a thread-safe inference pipeline so multiple media files can be analyzed…",
+          "async +4.0/4 (applied): accuracy; the FastAPI backend runs async with a thread-safe inference pipeline so multiple media files can be analyzed…",
+          "PostgreSQL +2.8/4 (stack): Python, BERT, NLP, LangChain, ReactJS, Django REST API, PostgreSQL",
+          "other backend +3.0/3 (applied): Wrote SQL queries and Excel-based data validation routines on structured business datasets, catching anomalies that red…",
+          "Python used in internship/work +2: Micro IT Services — Work From Home"
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +1.0/3 (listed): Data & Cloud: SQL, PostgreSQL, MongoDB, Excel, Data Visualization, AWS, Git, GitHub, CI/CD",
+          "AWS/Azure +1.0/3 (listed): Data & Cloud: SQL, PostgreSQL, MongoDB, Excel, Data Visualization, AWS, Git, GitHub, CI/CD",
+          "React/Next.js in an end-to-end project +3: AI-Powered Resume Screening & Job Matching System"
+        ],
+        "github": [
+          "Latest push 11 days ago: +3/3",
+          "2 active day(s) with pushes/PRs in the last 90 days: +1/2",
+          "23 original repo(s) updated in the last year: +2/2",
+          "12 of them Python/AI-relevant (ShiporaX, leadpulse-ai, primetrade_assignment, EduMind-AI-Adaptive-Learning-Mentor): +3/3"
+        ],
+        "engineering_depth": [
+          "queue +1.0/1 (applied): Designed the ranking engine using a min-heap priority queue (O(k log n)) for top-k candidate selection, with thread-safe",
+          "concurrency +1.0/1 (applied): the Django REST backend handles concurrent sessions statelessly, with a ReactJS recruiter dashboard on top."
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "TensorFlow",
+        "scikit-learn",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "LangChain",
+        "Hugging Face",
+        "Gemini",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "LLM evaluation",
+        "PostgreSQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "AWS",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Queues",
+        "Concurrency",
+        "Data pipeline"
+      ],
+      "project_summary": "AI-Powered Resume Screening & Job Matching System: retrieval/RAG and backend integration, built with Python, Django, LangChain, PostgreSQL, React.",
+      "projects": [
+        "AI-Powered Resume Screening & Job Matching System",
+        "Deepfake Detection System (Multimodal & Explainable AI)"
+      ],
+      "github_url": "https://github.com/arjunkumaritsme12",
+      "github_summary": "Last push 11 days ago, active on 2 day(s) in the last 90; 23 repo(s) maintained this year, 12 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Solid Python backend evidence in real work",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No Docker evidence"
+      ],
+      "evidence": [
+        "Python, BERT, NLP, LangChain, ReactJS, Django REST API, PostgreSQL",
+        "Built an end-to-end resume screening tool using BERT embeddings and NLP for semantic matching, hitting 96% accuracy; the Django REST backend handles concurrent sessions statelessly, with a ReactJS re…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_08.pdf",
+      "email": "r***@gmail.com"
+    },
+    {
+      "rank": 13,
+      "candidate_name": "Sumaiya Sultana Shaik",
+      "eligible": true,
+      "total_score": 59.9,
+      "score_breakdown": {
+        "ai_project_depth": 15.8,
+        "python_backend": 20.4,
+        "cloud_fullstack": 12.3,
+        "github": 8.0,
+        "engineering_depth": 3.4,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Techolution — Software Engineering Intern",
+          "agent orchestration +7: Designed prompt architectures and orchestration logic for a multi-agent document-generation system (Request Analysis, H…",
+          "backend integration +3: Designed and implemented RBAC for a multi-tenant SaaS platform, including org-level data isolation, per-resource permis…",
+          "production/business impact +3: Investigated and resolved production incidents through root-cause analysis and validation hardening, reducing recurring…",
+          "LLM framework/API +1: Investigated and resolved production incidents through root-cause analysis and validation hardening, reducing recurring…",
+          "Second AI project 'Privacy Risk Intelligence Platform [GitHub]' adds 25% of its 7: +1.8"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): and an email triage product, removing a manual follow-up step from the sales team’s workflow; wrote typed Python SDK",
+          "FastAPI +6.0/6 (applied): permission checks, and in-org sharing, enforced at both the FastAPI service layer and the React/TypeScript UI;",
+          "PostgreSQL +1.4/4 (listed): Databases: PostgreSQL, MongoDB",
+          "other backend +3.0/3 (applied): wrappers around external REST APIs (Google Drive, SharePoint, Linear, Calendar) with retry logic and structured",
+          "Python used in internship/work +2: Techolution — Software Engineering Intern"
+        ],
+        "cloud_fullstack": [
+          "GCP +3.5/5 (stack): Software Engineering Intern (Python, FastAPI, React, TypeScript, Docker, GCP)",
+          "Docker +2.8/4 (stack): Software Engineering Intern (Python, FastAPI, React, TypeScript, Docker, GCP)",
+          "deployment/CI +3.0/3 (applied): Investigated and resolved production incidents through root-cause analysis and validation hardening, reducing recurring",
+          "React/Next.js in an end-to-end project +3: Techolution — Software Engineering Intern"
+        ],
+        "github": [
+          "Latest push 25 days ago: +3/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "9 original repo(s) updated in the last year: +2/2",
+          "5 of them Python/AI-relevant (skillmap-agent, docuchat-agent, study-assistant, technical-assignment): +3/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): by ∼40%; wrote pytest suites covering validation logic and API contracts, and collaborated daily with product, QA, and",
+          "observability +1.0/1 (applied): logging.",
+          "resilience +1.0/1 (applied): wrappers around external REST APIs (Google Drive, SharePoint, Linear, Calendar) with retry logic and structured",
+          "architecture +0.3/1 (listed): Backend & System Design: REST APIs, GraphQL, FastAPI, RBAC, OAuth 2.0, microservices, multi-tenant architecture"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "scikit-learn",
+        "pytest",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "LangChain",
+        "LLM",
+        "RAG",
+        "PostgreSQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "GCP",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "TypeScript",
+        "Java",
+        "Testing",
+        "Observability",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Techolution — Software Engineering Intern: agent orchestration and backend integration, built with Python, FastAPI, pytest, GCP, Docker, React.",
+      "projects": [
+        "Privacy Risk Intelligence Platform [GitHub]"
+      ],
+      "github_url": "https://github.com/sumaiya226",
+      "github_summary": "Last push 25 days ago, active on 1 day(s) in the last 90; 9 repo(s) maintained this year, 5 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence"
+      ],
+      "evidence": [
+        "Built the OAuth 2.0 connector service and a 3-tier automated reminder system (48h/24h/6h) powering a sales-prep tool and an email triage product, removing a manual follow-up step from the sales team’…",
+        "Investigated and resolved production incidents through root-cause analysis and validation hardening, reducing recurring API failure rate by ∼45%; delivered real-time LLM response streaming via Server…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_28.pdf",
+      "email": "s***@gmail.com"
+    },
+    {
+      "rank": 14,
+      "candidate_name": "Abhinav Mishra",
+      "eligible": true,
+      "total_score": 59.6,
+      "score_breakdown": {
+        "ai_project_depth": 13.8,
+        "python_backend": 22.8,
+        "cloud_fullstack": 9.0,
+        "github": 10.0,
+        "engineering_depth": 4.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Next.js Frontend Developer Intern",
+          "agent orchestration +7: Built AI-powered learning features, including ExpertBuddy AI with agentic chat for homework queries, reducing resolutio…",
+          "production/business impact +3: Implemented custom caching for auth state, wallet balances, and notifications, reducing redundant network calls by ~30%…",
+          "LLM framework/API +1: Built AI-powered learning features, including ExpertBuddy AI with agentic chat for homework queries, reducing resolutio…",
+          "Second AI project 'Construct IDE — Live Link' adds 25% of its 11: +2.8"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): XiteCoin Blockchain (Python – no external dependencies)",
+          "FastAPI +6.0/6 (applied): FastAPI + SQLite backend, and Expo Cloud CI/CD, reducing split creation time by ~45%.",
+          "PostgreSQL +2.8/4 (stack): Construct IDE (Electron, LangGraph, OpenAI, Prisma, PostgreSQL, Turborepo)",
+          "Redis +3.0/3 (applied): Designed and implemented the SMS subsystem using QStash + Redis/Upstash, supporting delayed scheduling, delivery tracki…",
+          "other backend +3.0/3 (applied): FastAPI + SQLite backend, and Expo Cloud CI/CD, reducing split creation time by ~45%."
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +3.0/3 (applied): Built complete CI/testing infrastructure and a LaunchDarkly-style production rollout system, enabling safe beta release…",
+          "AWS/Azure +3.0/3 (applied): webhook logging, retry-aware execution, and credit-based billing across Azure-hosted services.",
+          "React/Next.js in an end-to-end project +3: Software Developer Intern"
+        ],
+        "github": [
+          "Latest push 1 days ago: +3/3",
+          "13 active day(s) with pushes/PRs in the last 90 days: +2/2",
+          "21 original repo(s) updated in the last year: +2/2",
+          "6 of them Python/AI-relevant (agate, spar, hackathon-datahub-schemaguard, fxpnt): +3/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): Built complete CI/testing infrastructure and a LaunchDarkly-style production rollout system, enabling safe beta release…",
+          "caching +1.0/1 (applied): Designed and implemented the SMS subsystem using QStash + Redis/Upstash, supporting delayed scheduling, delivery tracki…",
+          "observability +1.0/1 (applied): webhook logging, retry-aware execution, and credit-based billing across Azure-hosted services.",
+          "resilience +1.0/1 (applied): webhook logging, retry-aware execution, and credit-based billing across Azure-hosted services."
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LangGraph",
+        "AI agents",
+        "OpenAI API",
+        "LLM",
+        "RAG",
+        "PostgreSQL",
+        "Redis",
+        "SQL",
+        "Azure",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Testing",
+        "Caching",
+        "Observability",
+        "Failure handling",
+        "Data pipeline"
+      ],
+      "project_summary": "Next.js Frontend Developer Intern: agent orchestration, built with Next.js.",
+      "projects": [
+        "Construct IDE — Live Link",
+        "Decipath AI — Live Link",
+        "XiteCoin Blockchain (Python — no external dependencies)"
+      ],
+      "github_url": "https://github.com/AbhinavMishra32",
+      "github_summary": "Last push 1 days ago, active on 13 day(s) in the last 90; 21 repo(s) maintained this year, 6 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Solid Python backend evidence in real work",
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No async evidence",
+        "No Docker evidence"
+      ],
+      "evidence": [
+        "Built AI-powered learning features, including ExpertBuddy AI with agentic chat for homework queries, reducing resolution time by 42%, and developed a generative AI PDF analysis system using Vercel AI…",
+        "Implemented custom caching for auth state, wallet balances, and notifications, reducing redundant network calls by ~30% and improving overall load times."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_10.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "rank": 15,
+      "candidate_name": "Hari Shanker Sharma",
+      "eligible": true,
+      "total_score": 57.3,
+      "score_breakdown": {
+        "ai_project_depth": 21.8,
+        "python_backend": 14.8,
+        "cloud_fullstack": 11.0,
+        "github": 6.0,
+        "engineering_depth": 3.7,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: 500Agents— Component Intelligence Platform",
+          "agent orchestration +7: Architected the FastAPI AI runtime for a Component Intelligence Plat- form — Journey Builder, Component Registry, MCP-b…",
+          "tool calling +5: Architected the FastAPI AI runtime for a Component Intelligence Plat- form — Journey Builder, Component Registry, MCP-b…",
+          "backend integration +3: Architected the FastAPI AI runtime for a Component Intelligence Plat- form — Journey Builder, Component Registry, MCP-b…",
+          "production/business impact +3: Architected the FastAPI AI runtime for a Component Intelligence Plat- form — Journey Builder, Component Registry, MCP-b…",
+          "LLM framework/API +1: Engineered SSE streaming with LLM-powered intent resolution and multi- provider routing via LiteLLM, Langchain, Langrap…",
+          "Second AI project 'Jug.ai— AI Website Agent Platform' adds 25% of its 11: +2.8"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): ing APIs, and AI agent orchestration using Python, FastAPI,",
+          "FastAPI +6.0/6 (applied): Architected the FastAPI AI runtime for a Component Intelligence Plat-",
+          "async +1.4/4 (listed): design, asynchronous processing, CI/CD with GitHub Ac-",
+          "PostgreSQL +1.4/4 (listed): MongoDB, PostgreSQL, Redis",
+          "Redis +1.0/3 (listed): MongoDB, PostgreSQL, Redis",
+          "other backend +2.1/3 (stack): tifications, 20+ RESTful API endpoints, and CI/CD pipeline (GitHub"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): trading — with CI/CD pipelines (GitHub Actions), Docker containerization,",
+          "deployment/CI +3.0/3 (applied): Designed, built, and shipped four production AI SaaS platforms spanning AI",
+          "AWS/Azure +3.0/3 (applied): and S3-backed component publishing — 2M+ conversations at sub-200ms",
+          "React/Next.js outside an end-to-end project +1"
+        ],
+        "github": [
+          "Latest push 44 days ago: +2/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "4 original repo(s) updated in the last year: +2/2",
+          "2 of them Python/AI-relevant (bug-tracker, gen-ai-nxtwave): +2/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): and pytest test suites.",
+          "caching +0.3/1 (listed): MongoDB, PostgreSQL, Redis",
+          "observability +1.0/1 (applied): Architected a distributed price monitoring system across 7 major Indian e-",
+          "concurrency +0.3/1 (listed): design, asynchronous processing, CI/CD with GitHub Ac-",
+          "architecture +1.0/1 (applied): End-to-end ownership of 4 multi-tenant SaaS backends — architecture,"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "pandas",
+        "NumPy",
+        "pytest",
+        "Async programming",
+        "LangGraph",
+        "AI agents",
+        "Tool calling",
+        "MCP",
+        "LangChain",
+        "Hugging Face",
+        "OpenAI API",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "Qdrant",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Testing",
+        "Observability",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "500Agents— Component Intelligence Platform: agent orchestration, tool calling and backend integration, built with FastAPI, MCP, LangChain, Open LLMs, AWS.",
+      "projects": [
+        "Sasta Signals — Multi-Platform Price Tracking & Alerts GitHub",
+        "Actions) — deployed on DigitalOcean with Docker + Nginx reverse proxy."
+      ],
+      "github_url": "https://github.com/triggered-exe",
+      "github_summary": "Last push 44 days ago, active on 0 day(s) in the last 90; 4 repo(s) maintained this year, 2 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience"
+      ],
+      "concerns": [],
+      "evidence": [
+        "Architected the FastAPI AI runtime for a Component Intelligence Plat- form — Journey Builder, Component Registry, MCP-based data source integrations — enabling deployment of conversational AI agents…",
+        "Engineered SSE streaming with LLM-powered intent resolution and multi- provider routing via LiteLLM, Langchain, Langraph, session persistence, and S3-backed component publishing — 2M+ conversations a…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_41.pdf",
+      "email": "h***@gmail.com"
+    },
+    {
+      "rank": 16,
+      "candidate_name": "Aditi Kala",
+      "eligible": true,
+      "total_score": 56.2,
+      "score_breakdown": {
+        "ai_project_depth": 17.8,
+        "python_backend": 18.6,
+        "cloud_fullstack": 13.8,
+        "github": 9.0,
+        "engineering_depth": 2.0,
+        "penalties": -5.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Software Engineer Intern — AI Assistant",
+          "agent orchestration +7: ",
+          "evaluation +5: Built an automated agent QA framework with scripted and LLM-to-LLM test modes and an LLM scoring engine, cutting manual…",
+          "production/business impact +3: Built an automated agent QA framework with scripted and LLM-to-LLM test modes and an LLM scoring engine, cutting manual…",
+          "LLM framework/API +1: Built an automated agent QA framework with scripted and LLM-to-LLM test modes and an LLM scoring engine, cutting manual…",
+          "Second AI project 'Hackathon Experience — Foundrly' adds 25% of its 7: +1.8"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Python Developer Intern",
+          "FastAPI +4.2/6 (stack): Kalamitra | NextJs, MongoDB, Firebase, FastAPI, Gemini, Stripe, Docker | Live Demo",
+          "PostgreSQL +1.4/4 (listed): Developer Tools: Github, VS Code, PyCharm, Figma, Postgres, Jupyter, Git, Docker",
+          "other backend +3.0/3 (applied): Implemented a real-time push notification system in Flask using the Web Push API to deliver zone-based vehicle entry",
+          "Python used in internship/work +2: Python Developer Intern — ThirdEye AI"
+        ],
+        "cloud_fullstack": [
+          "GCP +5.0/5 (applied): Integrated Stripe payments, multilingual Gemini generation with Google Cloud Translate, and voice search, enabling",
+          "Docker +2.8/4 (stack): Kalamitra | NextJs, MongoDB, Firebase, FastAPI, Gemini, Stripe, Docker | Live Demo",
+          "deployment/CI +3.0/3 (applied): Improved and scaled a production voice AI calling system, refining agent prompts and qualification logic to reliably",
+          "React/Next.js in an end-to-end project +3: Hackathon Experience — Foundrly"
+        ],
+        "github": [
+          "Latest push 7 days ago: +3/3",
+          "3 active day(s) with pushes/PRs in the last 90 days: +1/2",
+          "27 original repo(s) updated in the last year: +2/2",
+          "11 of them Python/AI-relevant (Understudy, PitchPerfect, hinglish-turn-detector, linkedin-profile-api): +3/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): Built an automated agent QA framework with scripted and LLM-to-LLM test modes and an LLM scoring engine,",
+          "concurrency +1.0/1 (applied): chat workflows, scaling to 100 concurrent connections."
+        ],
+        "penalties": [
+          "-5: thin-wrapper AI project (Kalamitra)"
+        ]
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "PyTorch",
+        "TensorFlow",
+        "Gemini",
+        "LLM",
+        "LLM evaluation",
+        "Structured output",
+        "PostgreSQL",
+        "MongoDB",
+        "SQL",
+        "NoSQL stores",
+        "GCP",
+        "Docker",
+        "Deployment",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++",
+        "Testing",
+        "Concurrency",
+        "Data pipeline"
+      ],
+      "project_summary": "Software Engineer Intern — AI Assistant: agent orchestration and evaluation.",
+      "projects": [
+        "Software Engineer Intern — AI Assistant",
+        "Python Developer Intern — ThirdEye AI",
+        "Hackathon Experience — Foundrly",
+        "Kalamitra",
+        "Semantic Segmentation for Autonomous Vehicles"
+      ],
+      "github_url": "https://github.com/why-aditi",
+      "github_summary": "Last push 7 days ago, active on 3 day(s) in the last 90; 27 repo(s) maintained this year, 11 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence",
+        "Thin-wrapper AI project"
+      ],
+      "evidence": [
+        "Built an automated agent QA framework with scripted and LLM-to-LLM test modes and an LLM scoring engine, cutting manual validation time by 60%.",
+        "Improved and scaled a production voice AI calling system, refining agent prompts and qualification logic to reliably handle 200+ automated lead calls per day across multiple telephony providers."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_37.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "rank": 17,
+      "candidate_name": "Priyanshu Kumar",
+      "eligible": true,
+      "total_score": 51.8,
+      "score_breakdown": {
+        "ai_project_depth": 20.0,
+        "python_backend": 19.8,
+        "cloud_fullstack": 6.0,
+        "github": 3.0,
+        "engineering_depth": 3.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: PR Sentinel — AI",
+          "agent orchestration +7: Built an LLM-driven workflow engine using LangGraph to analyse live GitHub pull requests and generate automated review…",
+          "tool calling +5: Integrated MCP-based tool calling to fetch real-time Jira issue status and send Slack notifications, enabling context-a…",
+          "backend integration +3: Developed a full-stack application (FastAPI, React, SQLite) to store AI decisions and visualise PR health and escalatio…",
+          "LLM framework/API +1: Built an LLM-driven workflow engine using LangGraph to analyse live GitHub pull requests and generate automated review…",
+          "Second AI project 'AI Conversation Assistant' adds 25% of its 16: +4.0"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): JavaScript, Python, C++",
+          "FastAPI +6.0/6 (applied): Developed scalable backend services using FastAPI and PostgreSQL, ensuring efficient data handling and",
+          "async +4.0/4 (applied): Integrated Apache Kafka for asynchronous job execution messaging and result processing.",
+          "PostgreSQL +4.0/4 (applied): Developed scalable backend services using FastAPI and PostgreSQL, ensuring efficient data handling and",
+          "other backend +3.0/3 (applied): Developed a full-stack application (FastAPI, React, SQLite) to store AI decisions and visualise PR health and"
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +3.0/3 (applied): Architected and deployed an AI-powered RFP automation platform that streamlines the end-to-end proposal",
+          "React/Next.js in an end-to-end project +3: Part of the Innovation Center — contributed to design and development of next-generation…"
+        ],
+        "github": [
+          "Latest push 221 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "2 original repo(s) updated in the last year: +1/2",
+          "1 of them Python/AI-relevant (PR-Sentinel-AI): +1/3"
+        ],
+        "engineering_depth": [
+          "queue +1.0/1 (applied): Integrated Apache Kafka for asynchronous job execution messaging and result processing.",
+          "concurrency +1.0/1 (applied): Integrated Apache Kafka for asynchronous job execution messaging and result processing.",
+          "architecture +1.0/1 (applied): Designed a LangGraph-based multi-agent architecture enabling collaborative reasoning for requirement"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Async programming",
+        "LangGraph",
+        "CrewAI",
+        "AI agents",
+        "Multi-agent",
+        "Tool calling",
+        "MCP",
+        "LangChain",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "Pinecone",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "C++",
+        "Queues",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "PR Sentinel — AI: agent orchestration, tool calling and backend integration, built with FastAPI, LangGraph, MCP, React.",
+      "projects": [
+        "PR Sentinel — AI",
+        "AI Conversation Assistant",
+        "Job Scheduler Application"
+      ],
+      "github_url": "https://github.com/pkr2805",
+      "github_summary": "Last push 221 days ago, active on 0 day(s) in the last 90; 2 repo(s) maintained this year, 1 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No Redis evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Developed a full-stack application (FastAPI, React, SQLite) to store AI decisions and visualise PR health and escalation status on a dynamic dashboard.",
+        "Built an LLM-driven workflow engine using LangGraph to analyse live GitHub pull requests and generate automated review or escalation decisions."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_16.pdf",
+      "email": "k***@gmail.com"
+    },
+    {
+      "rank": 18,
+      "candidate_name": "Arunima Saha",
+      "eligible": true,
+      "total_score": 50.8,
+      "score_breakdown": {
+        "ai_project_depth": 23.0,
+        "python_backend": 20.6,
+        "cloud_fullstack": 8.8,
+        "github": 0.0,
+        "engineering_depth": 3.4,
+        "penalties": -5.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Tata Consultancy Services — Project 1: Multi-Agent Travel Planning System",
+          "agent orchestration +7: Agentic Travel Planning & Booking System Role: GenAI Developer Technology Stack: Python, LangGraph, LangChain, GPT-4o,…",
+          "state/memory +5: Designed and developed an agentic travel planning and booking system using LangGraph StateGraph, orchestrating speciali…",
+          "backend integration +3: Agentic Travel Planning & Booking System Role: GenAI Developer Technology Stack: Python, LangGraph, LangChain, GPT-4o,…",
+          "production/business impact +3: Containerized the application using Docker and prepared cloud deployment configurations for AWS EKS, supporting scalabl…",
+          "LLM framework/API +1: Agentic Travel Planning & Booking System Role: GenAI Developer Technology Stack: Python, LangGraph, LangChain, GPT-4o,…",
+          "Second AI project 'Project 2: Graph RAG Conversational Assistant — Neo4j + LangChain + GPT-4o' adds 25% of its 16: +4.0"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): Technology Stack: Python, LangGraph, LangChain, GPT-4o, FastAPI, Chainlit, PostgreSQL, Duffel API, SerpAPI, Docker,",
+          "FastAPI +6.0/6 (applied): Built a FastAPI backend and an interactive Chainlit conversational interface, enabling users to provide travel requirem…",
+          "PostgreSQL +4.0/4 (applied): Implemented persistent booking management using PostgreSQL and JSONB-based storage, supporting booking confirmation, re…",
+          "other backend +3.0/3 (applied): Project 3: AI-Based Text-to-SQL Chatbot — GPT-4o-mini + ECS Fargate + Lambda + RDS",
+          "Python used in internship/work +2: Tata Consultancy Services — Project 1: Multi-Agent Travel Planning System"
+        ],
+        "cloud_fullstack": [
+          "GCP +1.8/5 (listed): Google Cloud Generative AI Leader (GAIL)",
+          "Docker +4.0/4 (applied): Containerized the application using Docker and prepared cloud deployment configurations for AWS EKS, supporting scalabl…",
+          "deployment/CI +3.0/3 (applied): Containerized the application using Docker and prepared cloud deployment configurations for AWS EKS, supporting scalabl…"
+        ],
+        "github": [
+          "No GitHub profile on resume (0 points, not a rejection)."
+        ],
+        "engineering_depth": [
+          "caching +1.0/1 (applied): Manager, with cached secret retrieval and IAM-controlled service access.",
+          "observability +1.0/1 (applied): Implemented structured CloudWatch logging with UTC timestamps, request identifiers, generated-SQL visibility, execution…",
+          "resilience +1.0/1 (applied): Integrated the Duffel API for real-time flight search and SerpAPI for hotel and activity recommendations, with fallback…",
+          "architecture +0.3/1 (listed): LangGraph, and a serverless microservices backend on AWS, all architected end-to-end."
+        ],
+        "penalties": [
+          "-5: thin-wrapper AI project (Project 3: AI-Based Text-to-SQL Chatbot — GPT-4o-mini + ECS Fargate + Lambda + RDS)"
+        ]
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "LangGraph",
+        "AI agents",
+        "Multi-agent",
+        "Tool calling",
+        "LangChain",
+        "Hugging Face",
+        "OpenAI API",
+        "Gemini",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "Pinecone",
+        "pgvector",
+        "Reranking",
+        "Chunking",
+        "LLM evaluation",
+        "Structured output",
+        "PostgreSQL",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "GCP",
+        "AWS",
+        "Docker",
+        "Deployment",
+        "Caching",
+        "Observability",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "Tata Consultancy Services — Project 1: Multi-Agent Travel Planning System: agent orchestration, state/memory and backend integration, built with Python, FastAPI, LangGraph, LangChain, OpenAI API, PostgreSQL.",
+      "projects": [
+        "Tata Consultancy Services — Project 1: Multi-Agent Travel Planning System",
+        "Project 2: Graph RAG Conversational Assistant — Neo4j + LangChain + GPT-4o",
+        "Project 3: AI-Based Text-to-SQL Chatbot — GPT-4o-mini + ECS Fargate + Lambda + RDS",
+        "Developed an end-to-end GenAI Text-to-SQL conversational assistant that enables business…"
+      ],
+      "github_url": null,
+      "github_summary": "No GitHub profile on resume (0 points, not a rejection).",
+      "github_status": "no_profile",
+      "strengths": [],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence",
+        "Thin-wrapper AI project"
+      ],
+      "evidence": [
+        "Agentic Travel Planning & Booking System Role: GenAI Developer Technology Stack: Python, LangGraph, LangChain, GPT-4o, FastAPI, Chainlit, PostgreSQL, Duffel API, SerpAPI, Docker, AWS EKS",
+        "Designed and developed an agentic travel planning and booking system using LangGraph StateGraph, orchestrating specialized workflow nodes for user-input processing, flight search, hotel recommendatio…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_43.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "rank": 19,
+      "candidate_name": "Shubhanshu Navadiya",
+      "eligible": true,
+      "total_score": 49.5,
+      "score_breakdown": {
+        "ai_project_depth": 23.5,
+        "python_backend": 17.0,
+        "cloud_fullstack": 3.0,
+        "github": 5.0,
+        "engineering_depth": 1.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Artificial Intelligence Intern — F22 Labs",
+          "agent orchestration +7: Developed and deployed a real-time AI interview agent using LiveKit, Cartesia, GPT-4o, and STT/TTS pipelines to conduct…",
+          "retrieval/RAG +8: Built an end-to-end RAG pipeline for insurance policy documents using LlamaParse, Qdrant/Weaviate, LangChain, and Llama…",
+          "data processing +1: Built an end-to-end RAG pipeline for insurance policy documents using LlamaParse, Qdrant/Weaviate, LangChain, and Llama…",
+          "production/business impact +3: Developed and deployed a real-time AI interview agent using LiveKit, Cartesia, GPT-4o, and STT/TTS pipelines to conduct…",
+          "LLM framework/API +1: Built an end-to-end RAG pipeline for insurance policy documents using LlamaParse, Qdrant/Weaviate, LangChain, and Llama…",
+          "Second AI project 'Automated Stock News AI Agent' adds 25% of its 14: +3.5"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Automated Stock News AI Agent | Python, Gemini API, SQLite, GitHub Actions | Jul 2026",
+          "FastAPI +6.0/6 (applied): Developed a FastAPI + SQLite dashboard with REST APIs, recommendation tracking, and automated",
+          "other backend +3.0/3 (applied): Automated Stock News AI Agent | Python, Gemini API, SQLite, GitHub Actions | Jul 2026"
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +3.0/3 (applied): Developed and deployed a real-time AI interview agent using LiveKit, Cartesia, GPT-4o, and STT/TTS"
+        ],
+        "github": [
+          "Latest push 254 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "4 original repo(s) updated in the last year: +2/2",
+          "3 of them Python/AI-relevant (healthcare-plus-ai, AI_Layout_Generator, AI_GAME_REFEREE_CHATBOT): +2/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): Evaluated Naive Bayes and Random Forest baselines through EDA, testing, and model comparison."
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "pandas",
+        "NumPy",
+        "PyTorch",
+        "scikit-learn",
+        "Streamlit",
+        "CrewAI",
+        "AutoGen",
+        "AI agents",
+        "Multi-agent",
+        "LangChain",
+        "LlamaIndex",
+        "Hugging Face",
+        "OpenAI API",
+        "Gemini",
+        "Ollama",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "Qdrant",
+        "Weaviate",
+        "LLM evaluation",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "CI/CD",
+        "Deployment",
+        "Testing",
+        "Data pipeline"
+      ],
+      "project_summary": "Artificial Intelligence Intern — F22 Labs: agent orchestration, retrieval/RAG and data processing, built with LangChain, LlamaIndex, OpenAI API, Qdrant, Weaviate.",
+      "projects": [
+        "Automated Stock News AI Agent",
+        "Meta Ads Optimization Engine",
+        "Automated Financial Expense Classification"
+      ],
+      "github_url": "https://github.com/Shubhanshu-356",
+      "github_summary": "Last push 254 days ago, active on 0 day(s) in the last 90; 4 repo(s) maintained this year, 3 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Built an end-to-end RAG pipeline for insurance policy documents using LlamaParse, Qdrant/Weaviate, LangChain, and LlamaIndex for semantic retrieval, metadata extraction, and LLM-based reasoning.",
+        "Developed and deployed a real-time AI interview agent using LiveKit, Cartesia, GPT-4o, and STT/TTS pipelines to conduct 20-question automated voice interviews."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_12.pdf",
+      "email": "s***@gmail.com"
+    },
+    {
+      "rank": 20,
+      "candidate_name": "Pavani A",
+      "eligible": true,
+      "total_score": 48.6,
+      "score_breakdown": {
+        "ai_project_depth": 11.0,
+        "python_backend": 18.6,
+        "cloud_fullstack": 10.0,
+        "github": 9.0,
+        "engineering_depth": 0.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Automated Evaluation System (AutoEval)",
+          "evaluation +5: Developed a full-stack AI-powered automated evaluation system with role-based access for students, faculty, and adminis…",
+          "backend integration +3: Built a React.js (Next.js) frontend integrated with Django/FastAPI REST APIs.",
+          "LLM framework/API +1: Integrated LLaMA for automated evaluation and personalized feedback generation.",
+          "Second AI project 'Software Engineer Intern — SEQUOIA' adds 25% of its 8: +2.0"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): Pantry Management | Python, Django, Mysql, HTML/CSS, JavaScript",
+          "FastAPI +6.0/6 (applied): Automated Evaluation System (AutoEval) | React.js, Next.js, Django, FastAPI, PostgreSQL",
+          "PostgreSQL +4.0/4 (applied): Automated Evaluation System (AutoEval) | React.js, Next.js, Django, FastAPI, PostgreSQL",
+          "other backend +3.0/3 (applied): Engineered automation for 30+ REST APIs and 300+ UI workflows, improving reliability and coverage."
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Integrated CI/CD pipelines (Jenkins, Docker) and automated backend workflows using AI tools (Cursor, LLMs).",
+          "deployment/CI +3.0/3 (applied): Integrated CI/CD pipelines (Jenkins, Docker) and automated backend workflows using AI tools (Cursor, LLMs).",
+          "React/Next.js in an end-to-end project +3: Automated Evaluation System (AutoEval)"
+        ],
+        "github": [
+          "Latest push 1 days ago: +3/3",
+          "7 active day(s) with pushes/PRs in the last 90 days: +1/2",
+          "12 original repo(s) updated in the last year: +2/2",
+          "5 of them Python/AI-relevant (Bulk_certificate_generator, AI-Powered-Digital-Asset-Management, lenny-growth-assistant, handwritten-number-recognition): +3/3"
+        ],
+        "engineering_depth": [],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "pandas",
+        "NumPy",
+        "TensorFlow",
+        "scikit-learn",
+        "Open LLMs",
+        "LLM",
+        "LLM evaluation",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Java",
+        "Data pipeline"
+      ],
+      "project_summary": "Automated Evaluation System (AutoEval): evaluation and backend integration, built with FastAPI, Django, Open LLMs, PostgreSQL, React, Next.js.",
+      "projects": [
+        "Automated Evaluation System (AutoEval)",
+        "Pantry Management",
+        "Handwritten Digit Recognition"
+      ],
+      "github_url": "https://github.com/Pavani-A",
+      "github_summary": "Last push 1 days ago, active on 7 day(s) in the last 90; 12 repo(s) maintained this year, 5 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Built a React.js (Next.js) frontend integrated with Django/FastAPI REST APIs.",
+        "Developed a full-stack AI-powered automated evaluation system with role-based access for students, faculty, and administrators across 4+ modules."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_38.pdf",
+      "email": "p***@gmail.com"
+    },
+    {
+      "rank": 21,
+      "candidate_name": "Vivek Shekhawat",
+      "eligible": true,
+      "total_score": 46.3,
+      "score_breakdown": {
+        "ai_project_depth": 18.0,
+        "python_backend": 16.6,
+        "cloud_fullstack": 6.0,
+        "github": 3.0,
+        "engineering_depth": 2.7,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Auriga IT — Associate Software Engineer",
+          "retrieval/RAG +8: Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to ingest webpages, PDF…",
+          "backend integration +3: Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to ingest webpages, PDF…",
+          "data processing +1: Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to ingest webpages, PDF…",
+          "production/business impact +3: Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to ingest webpages, PDF…",
+          "LLM framework/API +1: Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to ingest webpages, PDF…",
+          "Second AI project 'Timesheet Bot' adds 25% of its 8: +2.0"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): Python, LangChain, LangGraph, LLMs",
+          "async +4.0/4 (applied): Designed asynchronous document processing and bounded concurrent embedding pipelines using goroutines,",
+          "PostgreSQL +4.0/4 (applied): Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to",
+          "other backend +3.0/3 (applied): Delivered React Native, React.js and Next.js features, integrated REST APIs and collaborated across teams"
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +3.0/3 (applied): Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to",
+          "React/Next.js in an end-to-end project +3: Auriga IT — Associate Software Engineer"
+        ],
+        "github": [
+          "Latest push 55 days ago: +2/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "1 original repo(s) updated in the last year: +1/2",
+          "0 of them Python/AI-relevant (none): +0/3"
+        ],
+        "engineering_depth": [
+          "observability +1.0/1 (applied): logging.",
+          "concurrency +1.0/1 (applied): Designed asynchronous document processing and bounded concurrent embedding pipelines using goroutines,",
+          "resilience +0.7/1 (stack): checks, rate limiting, SSRF-safe URL validation, request-size limits, recovery middleware and structured"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Async programming",
+        "LangGraph",
+        "LangChain",
+        "Ollama",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "pgvector",
+        "Chunking",
+        "PostgreSQL",
+        "MySQL",
+        "SQL",
+        "NoSQL stores",
+        "REST API",
+        "Deployment",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Observability",
+        "Concurrency",
+        "Failure handling",
+        "Data pipeline"
+      ],
+      "project_summary": "Auriga IT — Associate Software Engineer: retrieval/RAG, backend integration and data processing, built with Ollama, pgvector, PostgreSQL, React, Next.js.",
+      "projects": [
+        "Timesheet Bot",
+        "RecoBee Product Suite",
+        "recobee.ai",
+        "reco-bee.com"
+      ],
+      "github_url": "https://github.com/Vivek1592002",
+      "github_summary": "Last push 55 days ago, active on 0 day(s) in the last 90; 1 repo(s) maintained this year, 0 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No FastAPI evidence",
+        "No Redis evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Built a production-oriented RAG platform in Go using Gin, GORM, PostgreSQL, pgvector and Ollama to ingest webpages, PDFs and text, generate embeddings, retrieve relevant chunks and answer source-grou…",
+        "Designed asynchronous document processing and bounded concurrent embedding pipelines using goroutines, WaitGroups and semaphores; added batch persistence and SSE-based response streaming."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_39.pdf",
+      "email": "v***@gmail.com"
+    },
+    {
+      "rank": 22,
+      "candidate_name": "Agam Jain",
+      "eligible": true,
+      "total_score": 44.0,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 17.6,
+        "cloud_fullstack": 4.4,
+        "github": 8.0,
+        "engineering_depth": 2.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: MicroScroll - Revise concepts quickly",
+          "retrieval/RAG +8: Built an end-to-end AI-powered microlearning platform using React, TypeScript, Vite, and Tailwind, enabling users to co…",
+          "backend integration +3: MicroScroll - Revise concepts quickly | React, Node.js, Supabase(Auth and DB), Express.js, PostgreSQL. (Link)",
+          "data processing +1: Built an end-to-end AI-powered microlearning platform using React, TypeScript, Vite, and Tailwind, enabling users to co…"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): C++, Python, Java, HTML, CSS, JavaScript, TypeScript, SQL, GraphQL",
+          "FastAPI +6.0/6 (applied): with a FastAPI backend and SQL database.",
+          "PostgreSQL +2.8/4 (stack): MicroScroll - Revise concepts quickly | React, Node.js, Supabase(Auth and DB), Express.js, PostgreSQL. (Link)",
+          "Redis +3.0/3 (applied): Optimized API response times by 38% through strategic Redis caching implementation and MongoDB query optimization for",
+          "other backend +3.0/3 (applied): Built a React.js-based frontend for a reporting platform where users can run SQL queries and generate custom reports, i…"
+        ],
+        "cloud_fullstack": [
+          "Docker +1.4/4 (listed): React Native, React, Express.js, Next.js, Node.js, Docker, Figma",
+          "React/Next.js in an end-to-end project +3: Cognizant Technology Solutions — Programmer Analyst Trainee"
+        ],
+        "github": [
+          "Latest push 9 days ago: +3/3",
+          "11 active day(s) with pushes/PRs in the last 90 days: +2/2",
+          "10 original repo(s) updated in the last year: +2/2",
+          "1 of them Python/AI-relevant (duediligence-ai): +1/3"
+        ],
+        "engineering_depth": [
+          "testing +1.0/1 (applied): Integrated TanStack Router for dynamic, client-side routing, reducing perceived navigation delay by 30% during test run…",
+          "caching +1.0/1 (applied): Optimized API response times by 38% through strategic Redis caching implementation and MongoDB query optimization for"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Chunking",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQL",
+        "NoSQL stores",
+        "REST API",
+        "Docker",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++",
+        "Testing",
+        "Caching",
+        "Data pipeline"
+      ],
+      "project_summary": "MicroScroll - Revise concepts quickly: retrieval/RAG, backend integration and data processing, built with PostgreSQL, NoSQL stores, React, TypeScript, JavaScript.",
+      "projects": [
+        "MicroScroll - Revise concepts quickly",
+        "OneMinuteLabs"
+      ],
+      "github_url": "https://github.com/AgamJain05",
+      "github_summary": "Last push 9 days ago, active on 11 day(s) in the last 90; 10 repo(s) maintained this year, 1 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No async evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Built an end-to-end AI-powered microlearning platform using React, TypeScript, Vite, and Tailwind, enabling users to convert PDFs/DOCX/PPTX into interactive study decks with semantic chunking and aut…",
+        "Designed and implemented a scalable content processing pipeline, achieving sub-500ms card generation and 60fps study feed performance."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_03.pdf",
+      "email": "j***@gmail.com"
+    },
+    {
+      "rank": 23,
+      "candidate_name": "P.V. Jayavardhana Sai",
+      "eligible": true,
+      "total_score": 43.4,
+      "score_breakdown": {
+        "ai_project_depth": 20.0,
+        "python_backend": 11.0,
+        "cloud_fullstack": 8.4,
+        "github": 3.0,
+        "engineering_depth": 1.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Gen…",
+          "retrieval/RAG +8: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over priv…",
+          "evaluation +5: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over priv…",
+          "structured output/guardrails +2: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over priv…",
+          "data processing +1: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over priv…",
+          "production/business impact +3: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over priv…",
+          "LLM framework/API +1: Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over priv…"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Automated Student Section Allocation Platform: Engineered full-stack solution (Python + React + MySQL)",
+          "other backend +3.0/3 (applied): Automated Student Section Allocation Platform: Engineered full-stack solution (Python + React + MySQL)"
+        ],
+        "cloud_fullstack": [
+          "Docker +1.4/4 (listed): Flask, Docker, Git/GitHub, Jupyter, MySQL",
+          "deployment/CI +3.0/3 (applied): Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG)",
+          "AWS/Azure +1.0/3 (listed): AWS Academy Cloud Foundations: Amazon Web Services",
+          "React/Next.js in an end-to-end project +3: AI"
+        ],
+        "github": [
+          "Latest push 347 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "1 original repo(s) updated in the last year: +1/2",
+          "1 of them Python/AI-relevant (Cognitive-Resonance-AI): +1/3"
+        ],
+        "engineering_depth": [
+          "observability +1.0/1 (applied): and mitigated LLM failure modes such as hallucination, irrelevant retrieval, and context drift. Added logging and debug…"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "AI agents",
+        "Hugging Face",
+        "Ollama",
+        "LLM",
+        "RAG",
+        "LLM evaluation",
+        "Structured output",
+        "MySQL",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Observability",
+        "Data pipeline"
+      ],
+      "project_summary": "Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Gen…: retrieval/RAG, evaluation, structured output/guardrails and data processing, built with Python, Ollama.",
+      "projects": [
+        "Cognitive Resonance AI — Emotion-Aware Contextual AI Framework: Architected a novel deep…",
+        "AI",
+        "Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Gen…"
+      ],
+      "github_url": "https://github.com/jayavard123",
+      "github_summary": "Last push 347 days ago, active on 0 day(s) in the last 90; 1 repo(s) maintained this year, 1 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No FastAPI evidence",
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence"
+      ],
+      "evidence": [
+        "Workshop AI Assistant – RAG (LLM System): Designed and deployed a Retrieval-Augmented Generation (RAG) system over private vehicle service data using Ollama and Python. Built multi-step pipelines for…",
+        "Portfolio & Source Code: More projects accessible at github.com"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_19.pdf",
+      "email": "p***@gmail.com"
+    },
+    {
+      "rank": 24,
+      "candidate_name": "Krishan Kant",
+      "eligible": true,
+      "total_score": 41.6,
+      "score_breakdown": {
+        "ai_project_depth": 5.0,
+        "python_backend": 14.9,
+        "cloud_fullstack": 10.0,
+        "github": 7.0,
+        "engineering_depth": 4.7,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI-Powered Resume Screener [GitHub]",
+          "backend integration +3: Built a Java 17 / Spring Boot 3.3 backend integrating the OpenAI API via Spring AI to automate recruiter resume screeni…",
+          "data processing +1: Built a Java 17 / Spring Boot 3.3 backend integrating the OpenAI API via Spring AI to automate recruiter resume screeni…",
+          "LLM framework/API +1: Built a Java 17 / Spring Boot 3.3 backend integrating the OpenAI API via Spring AI to automate recruiter resume screeni…"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): Java, Python, SQL, C++",
+          "async +4.0/4 (applied): Implemented Asynchronous Event-Driven Notifications: Built a decoupled notification-service to process updates asynchro…",
+          "PostgreSQL +4.0/4 (applied): Optimized Distributed Database Management: Structured localized PostgreSQL schemas and replaced inefficient legacy dash…",
+          "Redis +1.0/3 (listed): Kafka, Redis, and PostgreSQL/MongoDB at scale, with hands-on expertise extending into practical GenAI integration (Spri…",
+          "other backend +3.0/3 (applied): Designed endpoints for job creation, LLM-ranked candidate retrieval, and reporting with strict HTTP handling; container…"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Designed endpoints for job creation, LLM-ranked candidate retrieval, and reporting with strict HTTP handling; container…",
+          "deployment/CI +3.0/3 (applied): Architected a production-ready digital wallet platform (Spring Boot 3/Java 21, React/TypeScript, Kotlin) containerized…",
+          "React/Next.js in an end-to-end project +3: Software Developer Intern Greater Noida, India"
+        ],
+        "github": [
+          "Latest push 26 days ago: +3/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "10 original repo(s) updated in the last year: +2/2",
+          "2 of them Python/AI-relevant (ai-powered-resume-screener, whatsapp-chatbot): +2/3"
+        ],
+        "engineering_depth": [
+          "caching +0.3/1 (listed): Kafka, Redis, and PostgreSQL/MongoDB at scale, with hands-on expertise extending into practical GenAI integration (Spri…",
+          "queue +0.3/1 (listed): Kafka, Redis, and PostgreSQL/MongoDB at scale, with hands-on expertise extending into practical GenAI integration (Spri…",
+          "observability +1.0/1 (applied): Engineered Custom Shared Infrastructure Components: Developed a reusable logging-starter library as a custom Spring Boo…",
+          "concurrency +1.0/1 (applied): Implemented Asynchronous Event-Driven Notifications: Built a decoupled notification-service to process updates asynchro…",
+          "resilience +1.0/1 (applied): strict rate limiting.",
+          "architecture +1.0/1 (applied): Architected a Distributed Microservices Infrastructure: Designed and engineered a highly scalable ecosystem using Sprin…"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "Async programming",
+        "LangChain",
+        "OpenAI API",
+        "LLM",
+        "RAG",
+        "Vector search",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "Docker",
+        "Deployment",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++",
+        "Caching",
+        "Queues",
+        "Observability",
+        "Concurrency",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "AI-Powered Resume Screener [GitHub]: backend integration and data processing, built with OpenAI API, MongoDB, Docker, Java, Spring Boot.",
+      "projects": [
+        "AI-Powered Resume Screener [GitHub]",
+        "Krikapay [GitHub]"
+      ],
+      "github_url": "https://github.com/krishankantgit",
+      "github_summary": "Last push 26 days ago, active on 1 day(s) in the last 90; 10 repo(s) maintained this year, 2 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience",
+        "Shows engineering depth (testing, caching, resilience)",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No FastAPI evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Built a Java 17 / Spring Boot 3.3 backend integrating the OpenAI API via Spring AI to automate recruiter resume screening; designed an asynchronous (@Async) pipeline processing bulk PDF/DOCX uploads…",
+        "Designed endpoints for job creation, LLM-ranked candidate retrieval, and reporting with strict HTTP handling; containerized MongoDB via Docker Compose with dynamic environment/API-key configuration."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_09.pdf",
+      "email": "k***@gmail.com"
+    },
+    {
+      "rank": 25,
+      "candidate_name": "Harsha A",
+      "eligible": true,
+      "total_score": 41.0,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 23.0,
+        "cloud_fullstack": 6.0,
+        "github": 0.0,
+        "engineering_depth": 0.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: GPTCS",
+          "retrieval/RAG +8: Implemented face embedding storage and similarity matching using PostgreSQL (pgvector) and developed APIs to process at…",
+          "backend integration +3: Developed backend services using Python FastAPI and PostgreSQL to manage school entities including students, classes, p…",
+          "data processing +1: Built a computer vision pipeline integrating YOLOv8-Face for multi-face detection and InsightFace (ArcFace) for facial…"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): model evaluation.Technologies Used: Python, Deep Learning (CNN), React.js, Node.js. • Key Features:",
+          "FastAPI +6.0/6 (applied): Developed backend services using Python FastAPI and PostgreSQL to manage school entities including",
+          "PostgreSQL +4.0/4 (applied): Developed backend services using Python FastAPI and PostgreSQL to manage school entities including",
+          "other backend +3.0/3 (applied): Implemented a Real Estate management system using DBMS (MySQL). I worked with a team of 2.",
+          "Python used in internship/work +2: RESUME SUMMARY"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Docker",
+          "AWS/Azure +1.0/3 (listed): Microsoft Azure",
+          "React/Next.js outside an end-to-end project +1"
+        ],
+        "github": [
+          "No GitHub profile on resume (0 points, not a rejection)."
+        ],
+        "engineering_depth": [],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "pandas",
+        "NumPy",
+        "TensorFlow",
+        "LLM",
+        "Embeddings",
+        "pgvector",
+        "LLM evaluation",
+        "PostgreSQL",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "Azure",
+        "Docker",
+        "React",
+        "JavaScript",
+        "Java",
+        "Data pipeline"
+      ],
+      "project_summary": "GPTCS: retrieval/RAG, backend integration and data processing, built with Python, FastAPI, pgvector, PostgreSQL.",
+      "projects": [
+        "Skin Cancer Detection using Deep Learning",
+        "Graphical Simulation of Bike Riding",
+        "Motion Detection",
+        "Real Estate Management System",
+        "House Rental Dashboard Site",
+        "Full Stack Student Management System"
+      ],
+      "github_url": null,
+      "github_summary": "No GitHub profile on resume (0 points, not a rejection).",
+      "github_status": "no_profile",
+      "strengths": [
+        "Solid Python backend evidence in real work"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence"
+      ],
+      "evidence": [
+        "Developed backend services using Python FastAPI and PostgreSQL to manage school entities including students, classes, parents, and camera configurations with role-based access control (RBAC).",
+        "Implemented face embedding storage and similarity matching using PostgreSQL (pgvector) and developed APIs to process attendance events, validate attendance time windows, deduplicate recognitions, and…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_15.pdf",
+      "email": "h***@gmail.com"
+    },
+    {
+      "rank": 26,
+      "candidate_name": "Dornipadu Karthika Chaitrika",
+      "eligible": true,
+      "total_score": 37.1,
+      "score_breakdown": {
+        "ai_project_depth": 17.0,
+        "python_backend": 13.0,
+        "cloud_fullstack": 2.1,
+        "github": 5.0,
+        "engineering_depth": 0.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AIML Intern (Virtual)",
+          "retrieval/RAG +8: Project: Production-Grade GenAI Chat Assistant with RAG",
+          "state/memory +5: Built session-based conversational memory for accurate AI-generated responses.",
+          "production/business impact +3: Project: Production-Grade GenAI Chat Assistant with RAG",
+          "LLM framework/API +1: Project: Production-Grade GenAI Chat Assistant with RAG"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Python and Google Gemini API.",
+          "other backend +3.0/3 (applied): Built a Flask-based web application for real-time tweet classification and achieved",
+          "Python used in internship/work +2: AIML Intern (Virtual)"
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +2.1/3 (stack): Project: Production-Grade GenAI Chat Assistant with RAG"
+        ],
+        "github": [
+          "Latest push 124 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "11 original repo(s) updated in the last year: +2/2",
+          "3 of them Python/AI-relevant (Diabetes-Prediction-ML, hate-speech-detection-tweets-ml, trade-api): +2/3"
+        ],
+        "engineering_depth": [],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "AI agents",
+        "Gemini",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "Deployment",
+        "JavaScript",
+        "Data pipeline"
+      ],
+      "project_summary": "AIML Intern (Virtual): retrieval/RAG and state/memory, built with Python, Gemini.",
+      "projects": [
+        "Detecting Hate Speech in tweets with advanced ML Techniques",
+        "90.14% accuracy using Logistic Regression"
+      ],
+      "github_url": "https://github.com/KarthikaDornipadu",
+      "github_summary": "Last push 124 days ago, active on 0 day(s) in the last 90; 11 repo(s) maintained this year, 3 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No FastAPI evidence",
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Developed a Retrieval-Augmented Generation (RAG) based AI assistant using Python and Google Gemini API.",
+        "Project: Production-Grade GenAI Chat Assistant with RAG"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_24.pdf",
+      "email": "d***@gmail.com"
+    },
+    {
+      "rank": 27,
+      "candidate_name": "Annisha S",
+      "eligible": true,
+      "total_score": 37.0,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 21.0,
+        "cloud_fullstack": 4.0,
+        "github": 0.0,
+        "engineering_depth": 0.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI-FIRST CRM SYSTEMS USING LANGGRAPH AND LLM",
+          "agent orchestration +7: Designed an AI-driven CRM system converting natural language into structured data using LangGraph, Groq LLM, FastAPI, a…",
+          "backend integration +3: Designed an AI-driven CRM system converting natural language into structured data using LangGraph, Groq LLM, FastAPI, a…",
+          "LLM framework/API +1: Designed an AI-driven CRM system converting natural language into structured data using LangGraph, Groq LLM, FastAPI, a…",
+          "Second AI project 'Code4X' adds 25% of its 4: +1.0"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): Constructed a scalable task management app using Python,",
+          "FastAPI +6.0/6 (applied): into structured data using LangGraph, Groq LLM, FastAPI, and",
+          "PostgreSQL +4.0/4 (applied): and PostgreSQL.",
+          "other backend +3.0/3 (applied): and REST APIs for secure, role-based task management."
+        ],
+        "cloud_fullstack": [
+          "AWS/Azure +1.0/3 (listed): SQL, Microsoft Azure (AZ-900), Git,",
+          "React/Next.js in an end-to-end project +3: Atdoor Company — Sep"
+        ],
+        "github": [
+          "Latest push 814 days ago: +0/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "0 original repo(s) updated in the last year: +0/2",
+          "0 of them Python/AI-relevant (none): +0/3"
+        ],
+        "engineering_depth": [],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "LangGraph",
+        "OpenAI API",
+        "Open LLMs",
+        "LLM",
+        "PostgreSQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "Azure",
+        "React"
+      ],
+      "project_summary": "AI-FIRST CRM SYSTEMS USING LANGGRAPH AND LLM: agent orchestration and backend integration, built with FastAPI, LangGraph, Open LLMs, React.",
+      "projects": [
+        "AI-FIRST CRM SYSTEMS USING LANGGRAPH AND LLM",
+        "TASK MANAGEMENT SYSTEM",
+        "VELMART DEPARTMENT STORE"
+      ],
+      "github_url": "https://github.com/annisha-atdoor",
+      "github_summary": "Last push 814 days ago, active on 0 day(s) in the last 90; 0 repo(s) maintained this year, 0 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Solid Python backend evidence in real work"
+      ],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence"
+      ],
+      "evidence": [
+        "Designed an AI-driven CRM system converting natural language into structured data using LangGraph, Groq LLM, FastAPI, and React.js, streamlining CRM workflow efficiency."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_23.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "rank": 28,
+      "candidate_name": "Vikram Madhyasta",
+      "eligible": true,
+      "total_score": 37.0,
+      "score_breakdown": {
+        "ai_project_depth": 5.0,
+        "python_backend": 11.0,
+        "cloud_fullstack": 10.0,
+        "github": 9.0,
+        "engineering_depth": 2.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Cloud-Native CI/CD & GitOps Platform with AI-Based Jenkins Log Analysis",
+          "data processing +1: Built an end-to-end GitOps CI/CD pipeline (GitHub → Jenkins → AWS ECR → ArgoCD → Kubernetes) that eliminated 100% of ma…",
+          "production/business impact +3: Tools: Jenkins, Docker, Kubernetes, ArgoCD, AWS (ECR, EC2), Git/GitHub, Python, OpenAI API",
+          "LLM framework/API +1: Tools: Jenkins, Docker, Kubernetes, ArgoCD, AWS (ECR, EC2), Git/GitHub, Python, OpenAI API"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): re-implementing inference as pure Python arithmetic cutting the deployment package from a 50MB+ sklearn bundle to under",
+          "other backend +3.0/3 (applied): Exposed predictions through a REST API (POST /predict) via API Gateway with Lambda proxy integration, and configured le…"
+        ],
+        "cloud_fullstack": [
+          "Docker +4.0/4 (applied): Containerized the application with Docker and automated image builds and secure pushes to a private AWS ECR registry via",
+          "deployment/CI +3.0/3 (applied): Built an end-to-end GitOps CI/CD pipeline (GitHub → Jenkins → AWS ECR → ArgoCD → Kubernetes) that eliminated 100% of",
+          "AWS/Azure +3.0/3 (applied): Built an end-to-end GitOps CI/CD pipeline (GitHub → Jenkins → AWS ECR → ArgoCD → Kubernetes) that eliminated 100% of"
+        ],
+        "github": [
+          "Latest push 5 days ago: +3/3",
+          "4 active day(s) with pushes/PRs in the last 90 days: +1/2",
+          "10 original repo(s) updated in the last year: +2/2",
+          "4 of them Python/AI-relevant (smart-expense-tracker-api, AgriTech, incident-management-system, cloud-ml-agriculture-predictor): +3/3"
+        ],
+        "engineering_depth": [
+          "observability +1.0/1 (applied): Enabled centralized monitoring through CloudWatch (execution logs, request counts, latency), giving full visibility int…",
+          "concurrency +1.0/1 (applied): Implemented a remote backend with S3 state storage and DynamoDB state locking, preventing concurrent-run state"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "scikit-learn",
+        "OpenAI API",
+        "SQL",
+        "NoSQL stores",
+        "REST API",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Deployment",
+        "Java",
+        "Observability",
+        "Concurrency",
+        "Data pipeline"
+      ],
+      "project_summary": "Cloud-Native CI/CD & GitOps Platform with AI-Based Jenkins Log Analysis: data processing, built with Python, OpenAI API, AWS, Docker, Kubernetes, CI/CD.",
+      "projects": [
+        "Cloud-Native CI/CD & GitOps Platform with AI-Based Jenkins Log Analysis",
+        "Serverless ML Inference API for Crop Yield Prediction",
+        "AWS Infrastructure Automation with Terraform (IaC)"
+      ],
+      "github_url": "https://github.com/vikrammadhyasta",
+      "github_summary": "Last push 5 days ago, active on 4 day(s) in the last 90; 10 repo(s) maintained this year, 4 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Cloud/deployment experience",
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No FastAPI evidence",
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence"
+      ],
+      "evidence": [
+        "Built an end-to-end GitOps CI/CD pipeline (GitHub → Jenkins → AWS ECR → ArgoCD → Kubernetes) that eliminated 100% of manual image build, push, and deployment steps.",
+        "Tools: Jenkins, Docker, Kubernetes, ArgoCD, AWS (ECR, EC2), Git/GitHub, Python, OpenAI API"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_29.pdf",
+      "email": "v***@gmail.com"
+    },
+    {
+      "rank": 29,
+      "candidate_name": "Saif Ali Nagori",
+      "eligible": true,
+      "total_score": 32.9,
+      "score_breakdown": {
+        "ai_project_depth": 12.0,
+        "python_backend": 7.9,
+        "cloud_fullstack": 6.0,
+        "github": 7.0,
+        "engineering_depth": 0.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Electrical Vehicle Knowledge Bot",
+          "retrieval/RAG +8: The system leverages LLM/RAG techniques to answer queries on EV types, charging, benefits, and",
+          "backend integration +3: It uses a Flask backend with a chatbot API and a React frontend for user interaction.",
+          "LLM framework/API +1: The system leverages LLM/RAG techniques to answer queries on EV types, charging, benefits, and"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): C, C++, and Python",
+          "FastAPI +2.1/6 (listed): Web Technologies: HTML, CSS, JavaScript, React,js , Node.js , Flask And FASTAPI",
+          "other backend +3.0/3 (applied): It uses a Flask backend with a chatbot API and a React frontend for user interaction."
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +3.0/3 (applied): Contributed to the design, development, and deployment of dynamic web applications using the MERN",
+          "React/Next.js in an end-to-end project +3: Full Stack Web Development Intern — Zaalima Development"
+        ],
+        "github": [
+          "Latest push 27 days ago: +3/3",
+          "1 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "14 original repo(s) updated in the last year: +2/2",
+          "3 of them Python/AI-relevant (Car_Price_Prediction, Electric-vehicle-knowledge-bot-, BugSpotter-AI-Powered-Code-Reviewer): +2/3"
+        ],
+        "engineering_depth": [],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "LLM",
+        "RAG",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "C++"
+      ],
+      "project_summary": "Electrical Vehicle Knowledge Bot: retrieval/RAG and backend integration, built with Flask, MongoDB, React, JavaScript.",
+      "projects": [
+        "Electrical Vehicle Knowledge Bot"
+      ],
+      "github_url": "https://github.com/Nagorisaifali",
+      "github_summary": "Last push 27 days ago, active on 1 day(s) in the last 90; 14 repo(s) maintained this year, 3 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Turf Booking System Turf Management is a full-stack web application that simplifies sports turf booking and management. It enables users to browse available turfs, check schedules, make online reserv…",
+        "It uses a Flask backend with a chatbot API and a React frontend for user interaction."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_36.pdf",
+      "email": "s***@gmail.com"
+    },
+    {
+      "rank": 30,
+      "candidate_name": "Aswin Raj R",
+      "eligible": true,
+      "total_score": 27.6,
+      "score_breakdown": {
+        "ai_project_depth": 10.0,
+        "python_backend": 10.6,
+        "cloud_fullstack": 4.0,
+        "github": 8.0,
+        "engineering_depth": 0.0,
+        "penalties": -5.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Kontiki labs — Gen AI Developer Intern",
+          "retrieval/RAG +8: Engineered Talkwise AI, a proof-of-concept AI meeting assistant integrating LLMs, RAG, and real-time Speech-to-Text (ST…",
+          "LLM framework/API +1: Engineered Talkwise AI, a proof-of-concept AI meeting assistant integrating LLMs, RAG, and real-time Speech-to-Text (ST…",
+          "Second AI project 'AI Car Rental Platform' adds 25% of its 4: +1.0"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): Tools and technologies used: Python, LangChain, RAG, OpenAI API.",
+          "other backend +3.0/3 (applied): Built and integrated full-stack features spanning React-based UIs and Node/Express REST APIs, handling",
+          "Python used in internship/work +2: Kontiki labs — Gen AI Developer Intern"
+        ],
+        "cloud_fullstack": [
+          "AWS/Azure +1.0/3 (listed): Cloud & AI/ML: AWS, Linux, LLMs, RAG, LangChain.",
+          "React/Next.js in an end-to-end project +3: Full Stack Intern"
+        ],
+        "github": [
+          "Latest push 21 days ago: +3/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "11 original repo(s) updated in the last year: +2/2",
+          "6 of them Python/AI-relevant (hiver, AI-car-rental, multimodal-rag-pipeline-, Notification_system): +3/3"
+        ],
+        "engineering_depth": [],
+        "penalties": [
+          "-5: thin-wrapper AI project (AI Car Rental Platform)"
+        ]
+      },
+      "matched_skills": [
+        "Python",
+        "TensorFlow",
+        "LangChain",
+        "OpenAI API",
+        "LLM",
+        "RAG",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "AWS",
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++"
+      ],
+      "project_summary": "Kontiki labs — Gen AI Developer Intern: retrieval/RAG, built with Python, LangChain, OpenAI API.",
+      "projects": [
+        "Federated Learning in Plant Disease Detection",
+        "AI Car Rental Platform"
+      ],
+      "github_url": "https://github.com/Aswinx0",
+      "github_summary": "Last push 21 days ago, active on 0 day(s) in the last 90; 11 repo(s) maintained this year, 6 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No FastAPI evidence",
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence",
+        "Thin-wrapper AI project"
+      ],
+      "evidence": [
+        "Tools and technologies used: Python, LangChain, RAG, OpenAI API.",
+        "Engineered Talkwise AI, a proof-of-concept AI meeting assistant integrating LLMs, RAG, and real-time Speech-to-Text (STT) to deliver live transcription and contextual Q&A during meetings"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_49.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "rank": 31,
+      "candidate_name": "Thejeshwaar Paasila",
+      "eligible": true,
+      "total_score": 26.8,
+      "score_breakdown": {
+        "ai_project_depth": 8.0,
+        "python_backend": 7.2,
+        "cloud_fullstack": 7.2,
+        "github": 2.0,
+        "engineering_depth": 2.4,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: AI Engineering Intern — Sky Rise AI Technologies",
+          "backend integration +3: Forged frontend and backend systems using React Native, TypeScript, and Flask, cutting average API response times by 20…",
+          "data processing +1: Accelerated AI-native development cycles by 40% using AI coding assistants, programmatic API validation workflows, and…",
+          "production/business impact +3: Spearheaded 6+ AI-native full-stack modules with real-time systems and intelligent automation workflows, reducing proce…",
+          "LLM framework/API +1: Spearheaded 6+ AI-native full-stack modules with real-time systems and intelligent automation workflows, reducing proce…"
+        ],
+        "python_backend": [
+          "Python +2.8/8 (listed): production systems using React, React Native, TypeScript, Python, Supabase, PostgreSQL, WebRTC, and LLM",
+          "PostgreSQL +1.4/4 (listed): production systems using React, React Native, TypeScript, Python, Supabase, PostgreSQL, WebRTC, and LLM",
+          "other backend +3.0/3 (applied): Forged frontend and backend systems using React Native, TypeScript, and Flask, cutting average API response"
+        ],
+        "cloud_fullstack": [
+          "GCP +1.8/5 (listed): Data API, NewsAPI, OpenWeatherMap API, Wikipedia API, Tenor API, Giphy SDK, Google Cloud Translation API",
+          "Docker +1.4/4 (listed): Developer Tools & Platforms: Git, GitHub, Postman, Vercel, Netlify, Expo EAS, Docker (Basics), Linux, VS Code,",
+          "deployment/CI +3.0/3 (applied): Deployed multimodal language model integrations serving 500+ daily queries with speech recognition, speech-",
+          "React/Next.js outside an end-to-end project +1"
+        ],
+        "github": [
+          "Latest push 138 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "1 original repo(s) updated in the last year: +1/2",
+          "0 of them Python/AI-relevant (none): +0/3"
+        ],
+        "engineering_depth": [
+          "testing +0.3/1 (listed): Testing, Validation & DevOps: Zod, ESLint, Prettier, SQLAlchemy, Flask-WTF, Flask-Login, CI/CD Concepts,",
+          "concurrency +1.0/1 (applied): Engineered horizontally scalable backend infrastructure supporting 10,000+ concurrent connections with",
+          "architecture +1.0/1 (applied): Architected low-latency peer-to-peer data transmission layers achieving sub-100ms sync with event-driven pub-"
+        ],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "SQLAlchemy",
+        "Hugging Face",
+        "OpenAI API",
+        "Gemini",
+        "LLM",
+        "RAG",
+        "PostgreSQL",
+        "MongoDB",
+        "SQL",
+        "NoSQL stores",
+        "REST API",
+        "GCP",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Testing",
+        "Concurrency",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "project_summary": "AI Engineering Intern — Sky Rise AI Technologies: backend integration and data processing, built with Flask, TypeScript.",
+      "projects": [
+        "IRLYSM — AI-Powered Real-Time Social Networking App"
+      ],
+      "github_url": "https://github.com/tejaharleys",
+      "github_summary": "Last push 138 days ago, active on 0 day(s) in the last 90; 1 repo(s) maintained this year, 0 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No FastAPI evidence",
+        "No Redis evidence",
+        "No async evidence"
+      ],
+      "evidence": [
+        "Forged frontend and backend systems using React Native, TypeScript, and Flask, cutting average API response times by 20% across 12+ endpoints and improving system scalability.",
+        "Accelerated AI-native development cycles by 40% using AI coding assistants, programmatic API validation workflows, and edge deployment pipelines for production-ready delivery."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_26.pdf",
+      "email": "t***@gmail.com"
+    },
+    {
+      "rank": 32,
+      "candidate_name": "Atul Kumar",
+      "eligible": true,
+      "total_score": 24.2,
+      "score_breakdown": {
+        "ai_project_depth": 8.2,
+        "python_backend": 11.0,
+        "cloud_fullstack": 8.0,
+        "github": 7.0,
+        "engineering_depth": 0.0,
+        "penalties": -10.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: SmartATS",
+          "backend integration +3: Quick-Text App: Built a text summarization web application and REST API using Streamlit and Flask. Engineered a dual-mo…",
+          "data processing +1: feedback. This tool streamlines the recruitment pipeline, significantly reducing manual review time for HR professional…",
+          "production/business impact +3: Quick-Text App: Built a text summarization web application and REST API using Streamlit and Flask. Engineered a dual-mo…",
+          "LLM framework/API +1: AI-Driven Question Paper Generator: Developed an automated Question Paper Generator using Python and Streamlit that con…",
+          "Second AI project 'SmartInternz — Certificate' adds 25% of its 1: +0.2"
+        ],
+        "python_backend": [
+          "Python +8.0/8 (applied): AI-Driven Question Paper Generator: Developed an automated Question Paper Generator using Python and",
+          "other backend +3.0/3 (applied): Quick-Text App: Built a text summarization web application and REST API using Streamlit and Flask. Engineered a"
+        ],
+        "cloud_fullstack": [
+          "GCP +5.0/5 (applied): Google Cloud Generative AI Virtual Internship (Remote)",
+          "deployment/CI +3.0/3 (applied): BART transformer model. Successfully managed version control and deployed the application to Render."
+        ],
+        "github": [
+          "Latest push 67 days ago: +2/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "8 original repo(s) updated in the last year: +2/2",
+          "5 of them Python/AI-relevant (SmartATS, QuickText, House-Price-Prediction, Question-Paper-Generator): +3/3"
+        ],
+        "engineering_depth": [],
+        "penalties": [
+          "-5: thin-wrapper AI project (SmartATS)",
+          "-5: tutorial-style or no implementation detail (SmartInternz — Certificate)"
+        ]
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "Streamlit",
+        "Gemini",
+        "Open LLMs",
+        "LLM",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "GCP",
+        "Deployment",
+        "C++",
+        "Data pipeline"
+      ],
+      "project_summary": "SmartATS: backend integration and data processing, built with Python, Flask, Streamlit, Gemini, Open LLMs.",
+      "projects": [
+        "SmartATS"
+      ],
+      "github_url": "https://github.com/atulkumar2025",
+      "github_summary": "Last push 67 days ago, active on 0 day(s) in the last 90; 8 repo(s) maintained this year, 5 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [
+        "Active, relevant public GitHub"
+      ],
+      "concerns": [
+        "No FastAPI evidence",
+        "No PostgreSQL evidence",
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence",
+        "Thin-wrapper AI project"
+      ],
+      "evidence": [
+        "Quick-Text App: Built a text summarization web application and REST API using Streamlit and Flask. Engineered a dual-model NLP pipeline featuring extractive summarization via LexRank (Sumy) and abstr…",
+        "AI-Driven Question Paper Generator: Developed an automated Question Paper Generator using Python and Streamlit that converts uploaded PDFs into formatted academic assessments. Integrated the Groq API…"
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_25.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "rank": 33,
+      "candidate_name": "M Sai Kushith",
+      "eligible": true,
+      "total_score": 24.1,
+      "score_breakdown": {
+        "ai_project_depth": 8.0,
+        "python_backend": 12.1,
+        "cloud_fullstack": 2.0,
+        "github": 2.0,
+        "engineering_depth": 0.0,
+        "penalties": 0.0
+      },
+      "score_evidence": {
+        "ai_project_depth": [
+          "Best AI project: Software Developer — AlstonAir Technologies",
+          "backend integration +3: Integrated Jitsi for virtual property site visits with complete booking and session management via Django REST APIs.",
+          "data processing +1: Built a OCR document verification pipeline (Tesseract + Nvidia NIM LLM) with Kannada-language support, validated agains…",
+          "production/business impact +3: Built a OCR document verification pipeline (Tesseract + Nvidia NIM LLM) with Kannada-language support, validated agains…",
+          "LLM framework/API +1: Built a OCR document verification pipeline (Tesseract + Nvidia NIM LLM) with Kannada-language support, validated agains…"
+        ],
+        "python_backend": [
+          "Python +5.6/8 (stack): Cancer Disease Detection — Python, Scikit-Learn, ML",
+          "FastAPI +2.1/6 (listed): owning a feature from React/TypeScript frontend through Django/FastAPI backend to the ML or LLM component that powers",
+          "PostgreSQL +1.4/4 (listed): Backend: Python, Django, FastAPI, PostgreSQL, SQL, REST APIs, Java, Hibernate, JDBC, J2EE",
+          "other backend +3.0/3 (applied): Integrated Jitsi for virtual property site visits with complete booking and session management via Django REST APIs."
+        ],
+        "cloud_fullstack": [
+          "deployment/CI +1.0/3 (listed): Full-stack developer with production experience building and shipping applied AI systems end to end. Built NAL, a real…",
+          "React/Next.js outside an end-to-end project +1"
+        ],
+        "github": [
+          "Latest push 124 days ago: +1/3",
+          "0 active day(s) with pushes/PRs in the last 90 days: +0/2",
+          "1 original repo(s) updated in the last year: +1/2",
+          "0 of them Python/AI-relevant (none): +0/3"
+        ],
+        "engineering_depth": [],
+        "penalties": []
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "scikit-learn",
+        "LangGraph",
+        "LangChain",
+        "Open LLMs",
+        "LLM",
+        "RAG",
+        "Vector search",
+        "PostgreSQL",
+        "SQL",
+        "REST API",
+        "Deployment",
+        "React",
+        "TypeScript",
+        "Java",
+        "Data pipeline"
+      ],
+      "project_summary": "Software Developer — AlstonAir Technologies: backend integration and data processing, built with Django, Open LLMs.",
+      "projects": [
+        "Cancer Disease Detection",
+        "PDF Document Analysis System"
+      ],
+      "github_url": "https://github.com/SaiKushith",
+      "github_summary": "Last push 124 days ago, active on 0 day(s) in the last 90; 1 repo(s) maintained this year, 0 Python/AI-relevant.",
+      "github_status": "ok",
+      "strengths": [],
+      "concerns": [
+        "No Redis evidence",
+        "No async evidence",
+        "No Docker evidence",
+        "No cloud platform evidence"
+      ],
+      "evidence": [
+        "Built a OCR document verification pipeline (Tesseract + Nvidia NIM LLM) with Kannada-language support, validated against the platform database at 95% extraction accuracy.",
+        "Integrated Jitsi for virtual property site visits with complete booking and session management via Django REST APIs."
+      ],
+      "llm_status": "skipped",
+      "file": "candidate_06.pdf",
+      "email": "m***@gmail.com"
+    }
+  ],
+  "rejected": [
+    {
+      "candidate_name": "Kartikay Sinha",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "Docker",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "Architecture"
+      ],
+      "evidence": [],
+      "file": "candidate_01.pdf",
+      "email": "k***@gmail.com"
+    },
+    {
+      "candidate_name": "Shivam Raj",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "REST API",
+        "Azure",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Testing",
+        "Observability",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [],
+      "file": "candidate_02.pdf",
+      "email": "s***@gmail.com"
+    },
+    {
+      "candidate_name": "Yuvaraj R",
+      "eligible": false,
+      "rejection_reasons": [
+        "Only classical ML evidence; no LLM/RAG/agentic project or framework"
+      ],
+      "matched_skills": [
+        "Python",
+        "Django",
+        "pandas",
+        "NumPy",
+        "scikit-learn",
+        "Streamlit",
+        "PostgreSQL",
+        "SQL",
+        "REST API",
+        "Docker",
+        "Deployment",
+        "Java",
+        "Observability",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (applied): Python Developer Intern",
+        "Django (applied): Designed and developed a full-stack web application using Django REST framework to manage",
+        "Streamlit (applied): Deep Learning and Streamlit"
+      ],
+      "file": "candidate_04.pdf",
+      "email": "y***@gmail.com"
+    },
+    {
+      "candidate_name": "Vishwas Badiger",
+      "eligible": false,
+      "rejection_reasons": [
+        "Only classical ML evidence; no LLM/RAG/agentic project or framework"
+      ],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "scikit-learn",
+        "MySQL",
+        "MongoDB",
+        "REST API",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (stack): Soil Classification for Sustainable Agriculture — Python, Flask, Scikit-learn",
+        "Flask (applied): Built a Flask-based web interface allowing users to input soil parameters and instantly view predicted soil type and recommendations.",
+        "scikit-learn (applied): Trained and evaluated multiple Scikit-learn classification models, tuning hyperparameters to reach 85% prediction accuracy."
+      ],
+      "file": "candidate_05.pdf",
+      "email": "V***@gmail.com"
+    },
+    {
+      "candidate_name": "MD Azizul Islam",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Async programming",
+        "OpenAI API",
+        "LLM",
+        "RAG",
+        "Embeddings",
+        "Vector search",
+        "pgvector",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQL",
+        "NoSQL stores",
+        "REST API",
+        "AWS",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "Observability",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "RAG (applied): Engineered an AI-powered RAG platform using React, Supabase, PostgreSQL, and",
+        "Vector search (applied): pgvector, accelerating enterprise semantic search performance by 45%.",
+        "pgvector (applied): pgvector, accelerating enterprise semantic search performance by 45%.",
+        "OpenAI API (listed): React.js, Node.js, OpenAI GPT API, Netlify | Link"
+      ],
+      "file": "candidate_11.pdf",
+      "email": "m***@gmail.com"
+    },
+    {
+      "candidate_name": "Jaya Nandi",
+      "eligible": false,
+      "rejection_reasons": [
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "pandas",
+        "NumPy",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "AWS",
+        "React",
+        "JavaScript",
+        "Java"
+      ],
+      "evidence": [
+        "Python (applied): Spearheaded data cleansing and analysis of customer purchase history (2M+ records) using Python and SQL,"
+      ],
+      "file": "candidate_14.pdf",
+      "email": "j***@gmail.com"
+    },
+    {
+      "candidate_name": "Harshit Kumar Mishra",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "GCP",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "Testing",
+        "Caching",
+        "Observability",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [],
+      "file": "candidate_18.pdf",
+      "email": "j***@gmail.com"
+    },
+    {
+      "candidate_name": "Candidate 20",
+      "eligible": false,
+      "rejection_reasons": [
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "JavaScript",
+        "Observability"
+      ],
+      "evidence": [
+        "Python (listed): database management, and software development life cycle. Proficient in core skills like Python and web"
+      ],
+      "file": "candidate_20.pdf",
+      "email": "p***@gmail.com"
+    },
+    {
+      "candidate_name": "Candidate 21",
+      "eligible": false,
+      "rejection_reasons": [
+        "Only classical ML evidence; no LLM/RAG/agentic project or framework"
+      ],
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "pandas",
+        "NumPy",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Streamlit",
+        "Hugging Face",
+        "LLM evaluation",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "Deployment",
+        "React",
+        "Java",
+        "Testing",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (listed): Python | TensorFlow | Keras | OpenCV | Hugging Face"
+      ],
+      "file": "candidate_21.pdf",
+      "email": "m***@gmail.com"
+    },
+    {
+      "candidate_name": "Gayathri Palraj",
+      "eligible": false,
+      "rejection_reasons": [
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Testing",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (applied): Built responsive, multi-tier user interfaces for an online recipe web application using React.js, HTML5, CSS3, JavaScript, and Python."
+      ],
+      "file": "candidate_27.pdf",
+      "email": "g***@gmail.com"
+    },
+    {
+      "candidate_name": "Shreya Chauhan",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "Async programming",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "SQL",
+        "REST API",
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "C++",
+        "Caching",
+        "Queues",
+        "Observability",
+        "Failure handling",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (listed): Java, C++, Python, JavaScript, SQL"
+      ],
+      "file": "candidate_31.pdf",
+      "email": "c***@gmail.com"
+    },
+    {
+      "candidate_name": "Mukul Pal",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "matched_skills": [
+        "Async programming",
+        "OpenAI API",
+        "LLM",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "REST API",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Caching",
+        "Queues",
+        "Failure handling",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "OpenAI API (stack): ResumeAI | Node.js, React, PostgreSQL, BullMQ, Redis, OpenAI API",
+        "LLM (applied): ﬁt using LLM analysis, with output schema validation and a self-correcting retry loop for malformed responses"
+      ],
+      "file": "candidate_32.pdf",
+      "email": "m***@gmail.com"
+    },
+    {
+      "candidate_name": "Nisarga H. S.",
+      "eligible": false,
+      "rejection_reasons": [
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "REST API",
+        "CI/CD",
+        "Deployment",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (applied): Random Password Generator using Python"
+      ],
+      "file": "candidate_34.pdf",
+      "email": "n***@gmail.com"
+    },
+    {
+      "candidate_name": "Anjali Patil",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "Docker",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Testing",
+        "Caching",
+        "Observability",
+        "Failure handling",
+        "Architecture"
+      ],
+      "evidence": [],
+      "file": "candidate_42.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "candidate_name": "Parshuram Kumar",
+      "eligible": false,
+      "rejection_reasons": [
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "Async programming",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "NoSQL stores",
+        "REST API",
+        "AWS",
+        "Azure",
+        "Docker",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "C++",
+        "Caching",
+        "Queues"
+      ],
+      "evidence": [
+        "Python (listed): JavaScript (ES6+), Python, PHP, C, C++, HTML5, CSS3"
+      ],
+      "file": "candidate_45.pdf",
+      "email": "p***@gmail.com"
+    },
+    {
+      "candidate_name": "Aabhar Gupta",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "AI mentioned only as a generic keyword; no AI/agentic project evidence"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "REST API",
+        "GCP",
+        "CI/CD",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Testing",
+        "Caching",
+        "Data pipeline"
+      ],
+      "evidence": [],
+      "file": "candidate_46.pdf",
+      "email": "a***@gmail.com"
+    },
+    {
+      "candidate_name": "Nidhi KM",
+      "eligible": false,
+      "rejection_reasons": [
+        "Only classical ML evidence; no LLM/RAG/agentic project or framework"
+      ],
+      "matched_skills": [
+        "Python",
+        "TensorFlow",
+        "MySQL",
+        "SQL",
+        "REST API",
+        "AWS",
+        "Deployment",
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Architecture",
+        "Data pipeline"
+      ],
+      "evidence": [
+        "Python (stack): Raspberry Pi 4, TensorFlow Lite, OpenCV, Python",
+        "TensorFlow (applied): Deployed real-time human detection on Raspberry Pi 4 using SSD MobileNet with TensorFlow Lite for edge inference."
+      ],
+      "file": "candidate_48.pdf",
+      "email": "n***@gmail.com"
+    }
+  ],
+  "failed": []
+}

@@ -1,0 +1,11 @@
+Farid Ahmed
+farid.ahmed@example.com
+
+SKILLS: Python, Flask, OpenAI API, SQL
+
+PROJECTS
+Email Summarizer | Python, Flask
+- Flask wrapper that calls the OpenAI API to summarize emails pasted by the user
+
+EDUCATION
+BSc Computer Science, 2026

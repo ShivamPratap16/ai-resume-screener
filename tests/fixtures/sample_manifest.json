@@ -1,0 +1,252 @@
+{
+  "candidate_01.pdf": {
+    "archetype": "strong_agentic",
+    "eligible": true,
+    "name": "Esha Das"
+  },
+  "candidate_02.pdf": {
+    "archetype": "strong_agentic",
+    "eligible": true,
+    "name": "Kavya Rao"
+  },
+  "candidate_03.pdf": {
+    "archetype": "strong_agentic",
+    "eligible": true,
+    "name": "Meera Shetty"
+  },
+  "candidate_04.pdf": {
+    "archetype": "strong_agentic",
+    "eligible": true,
+    "name": "Nikhil Mehta"
+  },
+  "candidate_05.pdf": {
+    "archetype": "solid_rag",
+    "eligible": true,
+    "name": "Aditya Joshi"
+  },
+  "candidate_06.pdf": {
+    "archetype": "solid_rag",
+    "eligible": true,
+    "name": "Nandini Chopra"
+  },
+  "candidate_07.pdf": {
+    "archetype": "solid_rag",
+    "eligible": true,
+    "name": "Omkar Bose"
+  },
+  "candidate_08.pdf": {
+    "archetype": "solid_rag",
+    "eligible": true,
+    "name": "Kabir Singh"
+  },
+  "candidate_09.pdf": {
+    "archetype": "agent_mid",
+    "eligible": true,
+    "name": "Aditya Singh"
+  },
+  "candidate_10.pdf": {
+    "archetype": "agent_mid",
+    "eligible": true,
+    "name": "Bhavna Saxena"
+  },
+  "candidate_11.pdf": {
+    "archetype": "agent_mid",
+    "eligible": true,
+    "name": "Pranav Bose"
+  },
+  "candidate_12.pdf": {
+    "archetype": "agent_mid",
+    "eligible": true,
+    "name": "Kavya Pillai"
+  },
+  "candidate_13.pdf": {
+    "archetype": "thin_wrapper",
+    "eligible": true,
+    "name": "Farhan Bose"
+  },
+  "candidate_14.pdf": {
+    "archetype": "thin_wrapper",
+    "eligible": true,
+    "name": "Omkar Nair"
+  },
+  "candidate_15.pdf": {
+    "archetype": "thin_wrapper",
+    "eligible": true,
+    "name": "Ishita Rao"
+  },
+  "candidate_16.pdf": {
+    "archetype": "thin_wrapper",
+    "eligible": true,
+    "name": "Harsh Pillai"
+  },
+  "candidate_17.pdf": {
+    "archetype": "tutorial",
+    "eligible": true,
+    "name": "Vikram Reddy"
+  },
+  "candidate_18.pdf": {
+    "archetype": "tutorial",
+    "eligible": true,
+    "name": "Varun Das"
+  },
+  "candidate_19.pdf": {
+    "archetype": "tutorial",
+    "eligible": true,
+    "name": "Ananya Verma"
+  },
+  "candidate_20.pdf": {
+    "archetype": "skills_only_ai",
+    "eligible": true,
+    "name": "Ishita Verma"
+  },
+  "candidate_21.pdf": {
+    "archetype": "skills_only_ai",
+    "eligible": true,
+    "name": "Tarun Shetty"
+  },
+  "candidate_22.pdf": {
+    "archetype": "skills_only_ai",
+    "eligible": true,
+    "name": "Kavya Khan"
+  },
+  "candidate_23.pdf": {
+    "archetype": "python_no_ai",
+    "eligible": false,
+    "name": "Priya Reddy"
+  },
+  "candidate_24.pdf": {
+    "archetype": "python_no_ai",
+    "eligible": false,
+    "name": "Karthik Gupta"
+  },
+  "candidate_25.pdf": {
+    "archetype": "python_no_ai",
+    "eligible": false,
+    "name": "Priya Khan"
+  },
+  "candidate_26.pdf": {
+    "archetype": "java_only",
+    "eligible": false,
+    "name": "Riya Gupta"
+  },
+  "candidate_27.pdf": {
+    "archetype": "java_only",
+    "eligible": false,
+    "name": "Omkar Shetty"
+  },
+  "candidate_28.pdf": {
+    "archetype": "java_only",
+    "eligible": false,
+    "name": "Omkar Khan"
+  },
+  "candidate_29.pdf": {
+    "archetype": "mern_only",
+    "eligible": false,
+    "name": "Arjun Sharma"
+  },
+  "candidate_30.pdf": {
+    "archetype": "mern_only",
+    "eligible": false,
+    "name": "Nandini Iyer"
+  },
+  "candidate_31.pdf": {
+    "archetype": "mern_only",
+    "eligible": false,
+    "name": "Nandini Singh"
+  },
+  "candidate_32.pdf": {
+    "archetype": "js_ai_no_python",
+    "eligible": false,
+    "name": "Karthik Kulkarni"
+  },
+  "candidate_33.pdf": {
+    "archetype": "js_ai_no_python",
+    "eligible": false,
+    "name": "Ishita Gupta"
+  },
+  "candidate_34.pdf": {
+    "archetype": "js_ai_no_python",
+    "eligible": false,
+    "name": "Kavya Shetty"
+  },
+  "candidate_35.pdf": {
+    "archetype": "classic_ml_only",
+    "eligible": false,
+    "name": "Shreya Gupta"
+  },
+  "candidate_36.pdf": {
+    "archetype": "classic_ml_only",
+    "eligible": false,
+    "name": "Arjun Rao"
+  },
+  "candidate_37.pdf": {
+    "archetype": "classic_ml_only",
+    "eligible": false,
+    "name": "Varun Chopra"
+  },
+  "candidate_38.pdf": {
+    "archetype": "learning_python",
+    "eligible": false,
+    "name": "Kavya Nair"
+  },
+  "candidate_39.pdf": {
+    "archetype": "learning_python",
+    "eligible": false,
+    "name": "Meera Joshi"
+  },
+  "candidate_40.pdf": {
+    "archetype": "narrative_strong",
+    "eligible": true,
+    "name": "Kiran Sood"
+  },
+  "candidate_41.pdf": {
+    "archetype": "narrative_strong",
+    "eligible": true,
+    "name": "Leela Thomas"
+  },
+  "candidate_42.pdf": {
+    "archetype": "narrative_weak",
+    "eligible": false,
+    "name": "Mohit Arora"
+  },
+  "candidate_43.pdf": {
+    "archetype": "fullstack_ai",
+    "eligible": true,
+    "name": "Divya Gupta"
+  },
+  "candidate_44.pdf": {
+    "archetype": "fullstack_ai",
+    "eligible": true,
+    "name": "Arjun Menon"
+  },
+  "nisha_varghese.docx": {
+    "archetype": "docx_agentic",
+    "eligible": true,
+    "name": "Nisha Varghese"
+  },
+  "farid_ahmed.txt": {
+    "archetype": "txt_thin_wrapper",
+    "eligible": true,
+    "name": "Farid Ahmed"
+  },
+  "corrupted_resume.pdf": {
+    "archetype": "corrupt",
+    "status": "failed"
+  },
+  "scanned_resume.pdf": {
+    "archetype": "image_only",
+    "status": "failed"
+  },
+  "candidate_01_copy.pdf": {
+    "archetype": "duplicate_file",
+    "status": "duplicate"
+  },
+  "candidate_02_resubmission.pdf": {
+    "archetype": "duplicate_email",
+    "status": "duplicate"
+  },
+  "profile_photo.png": {
+    "archetype": "unsupported",
+    "status": "failed"
+  }
+}
